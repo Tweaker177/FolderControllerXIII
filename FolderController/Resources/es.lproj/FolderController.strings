@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ABOUT</key>
+	<string>Acerca</string>
 <key>Add a BG image-No Respring needed</key>
 <string>Agregue una imagen de fondo</string>
 	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
@@ -27,8 +29,6 @@
 	<string>Radios de esquina personalizados</string>
 	<key>Custom folder layouts</key>
 	<string>Diseños de carpetas personalizados</string>
-	<key>Custom folder sizes</key>
-<string>Tamaños de carpetas personalizadas</string>
 <key>CUSTOM LAYOUTS AND INSETS</key>
 <string>Diseños personalizados e insertos</string>
 	<key>Custom layouts</key>

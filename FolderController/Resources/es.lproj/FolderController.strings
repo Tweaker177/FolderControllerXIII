@@ -4,21 +4,15 @@
 <dict>
 <key>Add a BG image-No Respring needed</key>
 <string>Agregue una imagen de fondo</string>
-	
-	
 	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
 	<string>Permite usar carpetas como parte de la selección de múltiples íconos para reorganizar su pantalla de inicio más rápido. En el modo de edición, arrastre hacia abajo y mantenga presionado un icono, después toque otros para realizar una selección múltiple.</string>
 <key>Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired.</key>
 <string>Casi todas las configuraciones se actualizan instantáneamente, excepto los cambios en los íconos y los tamaños de carpetas. Aplicar cambios hará que su dispositivo vuelva a funcionar y se asegurará de que todos los valores estén configurados según lo deseado.</string>
-
 	<key>Apply changes</key>
 	<string>Aplicar los cambios (respring)</string>
 <key>Choose background image</key>
 <string>Elija imagen</string>
-	
-	
-	
-<key>Closed folders</key>
+	<key>Closed folders</key>
 <string>Carpetas cerradas</string>
 	<key>Closing folders</key>
 	<string>Cerrar carpetas</string>
@@ -29,11 +23,6 @@
 <string>Configuración para los radios de esquina de las carpetas abiertas y sus iconos (carpetas cerradas)</string>
 	<key>Credits and Support</key>
 	<string>Créditos y soporte técnico.</string>
-	
-	<key>Custom color alpha:</key>
-	<string>Alfa para el color escogido:</string>
-	<key>Custom color folder icons, and pick custom border color and thickness. Turn on Support theme images if you have a folder icon as part of your theme you want to see. The border color will work still, but leave theme image original color as icon. Also makes tweak compatible for custom icon images.</key>
-	<string>Personalizar los iconos de las carpetas de colores y elija el color y el grosor del borde. Activar “Soporte imágenes de temas” sí tiene un icono de carpeta como parte del tema que desea ver. El color del borde aún funcionará, pero deje el color original de la imagen del tema como un icono. También hay un tweak compatible para imágenes de iconos personalizados.</string>
 	<key>Custom corner radiuses</key>
 	<string>Radios de esquina personalizados</string>
 	<key>Custom folder layouts</key>
@@ -44,8 +33,6 @@
 <string>Diseños personalizados e insertos</string>
 	<key>Custom layouts</key>
 <string>Diseños personalizados</string>
-	<key>Dark background</key>
-	<string>Fondo oscuro</string>
 	<key>Donations much appreciated</key>
 	<string>Gracias por su apoyo</string>
 <key>Enable BG image:</key>
@@ -64,22 +51,12 @@
 	
 	<key>IMAGE ALPHA</key>
 	<string>ALPHA PARA IMAGENES</string>
-	<key>Keep empty folders</key>
-	<string>Guardar carpetas vacias</string>
 	<key>More improvements coming soon.</key>
 	<string>Más mejoras próximamente.</string>
 	<key>Multi-Folder select</key>
 	<string>Selección de múltiples carpetas</string>
-	<key>No background effects/blur</key>
-	<string>Sin efectos de fondo</string>
-	<key>Normal</key>
-	<string>Predeterminado</string>
 	<key>Open Folder Options</key>
 	<string>Opciones Para Carpetas Abiertas</string>
-	<key>Open folder coloring</key>
-	<string>Colorear carpetas abiertas </string>
-	<key>Open folder opacity</key>
-	<string>Opacidad de carpetas abiertas </string>
 <key>Open folders</key>
 <string>Carpetas abiertas</string>
 	<key>Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on/off)</key>

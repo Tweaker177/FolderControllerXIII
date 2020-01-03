@@ -1,0 +1,6 @@
+Currently only the Spanish language project is fully translated with the correct strings. 
+Also, as new features are added, that will be the first language updated, as it's the second language I became fluent in over the years, and easiest for me to translate.
+
+If you download those files, you can change the Spanish translations to your native language, leaving the English part how it is, and then create a pull request on here for your language using the edited file(s), or upload the corrected file(s) and send it to me on Twitter @BrianVS
+
+If you don't see your native language on here, you can fork the repo and create a folder with the corresponding abbreviation.lproj and add the strings in there.

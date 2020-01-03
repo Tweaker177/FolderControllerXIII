@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular.</key>
+	<string>Ajuste las carpetas cerradas (íconos de carpetas) radio de esquina de 0 al cuadrado y 28-30 al circular.</string>
+	<key>Adjust corner radius for open folder backgrounds.</key>
+	<string>Ajustar el radio de la esquina para el fondo de la carpeta abierta.</string>
+
+<key>Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>Casi todas las configuraciones se actualizan instantáneamente, excepto los cambios en los íconos y los tamaños de carpetas. Aplicar cambios hará que su dispositivo vuelva a funcionar y se asegurará de que todos los valores estén configurados según lo deseado.</string>
+	<key>Apply changes</key>
+	<string>Aplicar los cambios (respring)</string>
+
+
+<key>Corner radius</key>
+	<string>Radios de esquina</string>
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Configuración para los radios de esquina de las carpetas abiertas y sus iconos (carpetas cerradas)</string>
+	<key>Credits and Support</key>
+	<string>Créditos y soporte técnico.</string>
+
+	<key>Custom corner radiuses</key>
+	<string>Radios de esquina personalizados</string>
+
+
+	<key>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</key>
+	<string>Habilitar para cambiar el radio de la esquina de las carpetas abiertas y cerradas. *Respring necesario.</string>
+
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>¿Tienes errores? Conflictos? 🤔 Visite el soporte técnico en la página siguiente. Esta es la mejor manera de obtener ayuda, ya que envía por correo electrónico la configuración de FolderControllerXIII y una lista de paquetes instalados que podrían estar interfiriendo.</string>
+	<key>More improvements coming soon.</key>
+	<string>Más mejoras próximamente.</string>
+	
+</dict>
+</plist>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adjust slider to set custom max number of rows inside open folders.</key>
+	<string>Ajuste el control deslizante para establecer el número máximo personalizado de filas dentro de las carpetas abiertas.</string>
+	<key>Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine.</key>
+	<string>Ajusta el valor alpha de los iconos de carpetas sin color. Deje ambos a cero para ver sólo los cambios personalizados de color y el radio de las esquina (si usa Snowboard). Esa es una solución para el conflicto de radio de la esquina con el motor del tema.</string>
+	<key>Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger.</key>
+	<string>Ajusta la inserción del icono inferior. Los valores negativos reducen la inserción, los positivos los hacen más grandes.</string>
+	<key>Adjusts side icon insets. Negative values reduce insets, positive make them bigger.</key>
+	<string>Ajusta las inserciones de los iconos laterales. Los valores negativos reducen las inserciones, los positivos los hacen más grandes.</string>
+	<key>Adjusts top icon inset. Negative values reduce inset, positive make them bigger.</key>
+	<string>Ajusta la inserción del icono superior. Los valores negativos reducen la inserción, los positivos los hacen más grandes.</string>
+    <key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps) Only working on iOS 11-12.4.3</key>
+    <string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones) SOLO FUNCIONA en iOS 11-12.4.4 para ahora.</string>
+    <key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)</key>
+	<string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones)</string>
+	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
+	<string>Permite usar carpetas como parte de la selección de múltiples íconos para reorganizar su pantalla de inicio más rápido. En el modo de edición, arrastre hacia abajo y mantenga presionado un icono, después toque otros para realizar una selección múltiple.</string>
+    <key>Almost all the settings update instantly except for changes to icons, and folder size changes. It is a good idea to respring after changing layouts though so it sets with IconSupport.</key>
+    <string>Casi todas las configuraciones se actualizan instantáneamente, excepto los cambios en los íconos y los tamaños de carpetas. Sin embargo, es una buena idea hacer un respring después de cambiar los diseños, para que se los puede agregar con IconSupport.</string>
+    <key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
+	<string>Cualquier valor mayor a cero habilita el borde de color para las carpetas abiertas, suponiendo que una de las opciones de color esté habilitada.</string>
+	<key>Apply changes</key>
+	<string>Aplicar los cambios (respring)</string>
+	<key>Auto-close when app opens</key>
+	<string>Cerrarla cuando se abre un app</string>
+	<key>Credits and Support</key>
+	<string>Créditos y soporte técnico.</string>
+	<key>Custom background blur</key>
+	<string>Desenfoque de fondo personalizado</string>
+	<key>Custom color alpha:</key>
+	<string>Alfa para el color escogido:</string>
+	<key>Custom color folder icons, and pick custom border color and thickness. Turn on Support theme images if you have a folder icon as part of your theme you want to see. The border color will work still, but leave theme image original color as icon. Also makes tweak compatible for custom icon images.</key>
+	<string>Personalizar los iconos de las carpetas de colores y elija el color y el grosor del borde. Activar “Soporte imágenes de temas” sí tiene un icono de carpeta como parte del tema que desea ver. El color del borde aún funcionará, pero deje el color original de la imagen del tema como un icono. También hay un tweak compatible para imágenes de iconos personalizados.</string>
+	<key>Custom corner radiuses</key>
+	<string>Radios de esquina personalizados</string>
+	<key>Custom folder layouts</key>
+	<string>Diseños de carpetas personalizados</string>
+    <key>CUSTOM FOLDER LAYOUTS</key>
+    <string>Diseños de carpetas personalizados</string>
+	<key>Custom layouts</key>
+    <string>Diseños personalizados</string>
+    <key>Custom Layouts</key>
+    <string>Diseños Personalizados</string>
+	<key>Dark background</key>
+	<string>Fondo oscuro</string>
+	<key>Donations much appreciated</key>
+	<string>Gracias por su apoyo</string>
+	<key>Enable custom insets</key>
+	<string>Habilitar inserciones personalizadas</string>
+    <key>FOLDER INSETS (COMING SOON)</key>
+    <string>Inserciones de carpetas abiertas (VIENE PRONTO)</string>
+	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
+	<string>Para acceso completo a todos mis paquetes, añade a mi fuente personal, y chequea a mis tweaks en BigBoss.</string>
+	<key>Free tweaks in BigBoss</key>
+	<string>Mis tweaks en BigBoss</string>
+	<key>Full Page</key>
+	<string>Página completa</string>
+	<key>Full Width</key>
+	<string>Ancho Completo</string>
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>¿Tienes errores? Conflictos? 🤔 Visite el soporte técnico en la página siguiente. Esta es la mejor manera de obtener ayuda, ya que envía por correo electrónico la configuración de FolderControllerXIII y una lista de paquetes instalados que podrían estar interfiriendo.</string>
+	<key>More improvements coming soon.</key>
+	<string>Más mejoras próximamente.</string>
+	<key>Multi-Folder select</key>
+	<string>Selección de múltiples carpetas</string>
+	<key>No background effects/blur</key>
+	<string>Sin efectos de fondo</string>
+	<key>Normal</key>
+	<string>Predeterminado</string>
+    <key>Often only one custom layout tweak may be used at a time.  This tweak, while designed to be compatible with others as much as possible, may conflict with other custom layout tweaks, or others may make this one not work.  If the tweak does not appear to be working, check for potential conflicts before assuming this tweak is broken.</key>
+    <string>A menudo, solo se puede usar un paquete que cambia el diseño personalizado a la vez. Este paquete, aunque está diseñado para ser compatible con otros tanto como sea posible, puede entrar en conflicto con otros ajustes de diseño personalizados, u otros pueden hacer que este no funcione. Si el ajuste no parece estar funcionando, verifique posibles conflictos antes de asumir que este paquete está roto.</string>
+	<key>Open Folder Options</key>
+	<string>Opciones Para Carpetas Abiertas</string>
+	<key>Open folder coloring</key>
+	<string>Colorear carpetas abiertas </string>
+	<key>Open folder opacity</key>
+	<string>Opacidad de carpetas abiertas </string>
+	<key>Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on/off)</key>
+	<string>Opciones para cerrar carpetas. Tocar le permite tocar en cualquier lugar, pellizcar para cerrar usa el gesto de pellizcar fuera de la carpeta para cerrarla. (Pellizcando requiere respring para habilitar/ apagar)</string>
+	<key>Options to adjust appearance of title and the home screen blur/ background behind an open folder. No resprings needed. Open folder colors can be changed without needing respring as well.</key>
+	<string>Opciones para ajustar la apariencia del título y pantalla de inicio borroso/ fondo detrás de la carpeta abierta. No necesita respring. Colores de la carpeta abierta pueden ser cambiados fuera de necesitar respring.</string>
+	<key>Set custom number of columns inside folder.</key>
+	<string>Establecer número personalizado de columnas dentro de la carpeta.</string>
+	<key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
+	<string>Establecer el número de filas y columnas cuando la carpeta esta abierto. No necesita respring, si es necesario "Aplica los cambios".</string>
+	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 12.</key>
+	<string>Gracias por su compra. Cualquier donación adicional será muy apreciada, continuaré mejorando el paquete y proporcionaré soporte para iOS 13.</string>
+	<key>Turns on the tweak. Turn off to reset all changes to original values.</key>
+	<string>Activar tweak. Desactivar para restablecer a valores originales.</string>
+	<key>Tweak created by:</key>
+	<string>Paquete creado por:</string>
+	<key>Vary gradient styles</key>
+	<string>Varear estilos gradientes.</string>
+</dict>
+</plist>

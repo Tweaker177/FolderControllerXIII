@@ -4,8 +4,7 @@
 <dict>
 	<key>Adjust slider to set custom max number of rows inside open folders.</key>
 	<string>Ajuste el control deslizante para establecer el número máximo personalizado de filas dentro de las carpetas abiertas.</string>
-	<key>Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine.</key>
-	<string>Ajusta el valor alpha de los iconos de carpetas sin color. Deje ambos a cero para ver sólo los cambios personalizados de color y el radio de las esquina (si usa Snowboard). Esa es una solución para el conflicto de radio de la esquina con el motor del tema.</string>
+	
 	<key>Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger.</key>
 	<string>Ajusta la inserción del icono inferior. Los valores negativos reducen la inserción, los positivos los hacen más grandes.</string>
 	<key>Adjusts side icon insets. Negative values reduce insets, positive make them bigger.</key>
@@ -16,12 +15,10 @@
     <string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones) SOLO FUNCIONA en iOS 11-12.4.4 para ahora.</string>
     <key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)</key>
 	<string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones)</string>
-	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
-	<string>Permite usar carpetas como parte de la selección de múltiples íconos para reorganizar su pantalla de inicio más rápido. En el modo de edición, arrastre hacia abajo y mantenga presionado un icono, después toque otros para realizar una selección múltiple.</string>
+	
     <key>Almost all the settings update instantly except for changes to icons, and folder size changes. It is a good idea to respring after changing layouts though so it sets with IconSupport.</key>
     <string>Casi todas las configuraciones se actualizan instantáneamente, excepto los cambios en los íconos y los tamaños de carpetas. Sin embargo, es una buena idea hacer un respring después de cambiar los diseños, para que se los puede agregar con IconSupport.</string>
-    <key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
-	<string>Cualquier valor mayor a cero habilita el borde de color para las carpetas abiertas, suponiendo que una de las opciones de color esté habilitada.</string>
+    
 	<key>Apply changes</key>
 	<string>Aplicar los cambios (respring)</string>
 	<key>Auto-close when app opens</key>

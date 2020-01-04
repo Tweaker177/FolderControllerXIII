@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adjust slider to set custom max number of rows inside open folders.</key>
+	<string>Ajuste el control deslizante para establecer el número máximo personalizado de filas dentro de las carpetas abiertas.</string>
+	<key>Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger.</key>
+	<string>Ajusta la inserción del icono inferior. Los valores negativos reducen la inserción, los positivos los hacen más grandes.</string>
+	<key>Adjusts side icon insets. Negative values reduce insets, positive make them bigger.</key>
+	<string>Ajusta las inserciones de los iconos laterales. Los valores negativos reducen las inserciones, los positivos los hacen más grandes.</string>
+	<key>Adjusts top icon inset. Negative values reduce inset, positive make them bigger.</key>
+	<string>Ajusta la inserción del icono superior. Los valores negativos reducen la inserción, los positivos los hacen más grandes.</string>
+	<key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)</key>
+	<string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones)</string>
+	<key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps) Only working on iOS 11-12.4.3</key>
+	<string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones) SOLO FUNCIONA en iOS 11-12.4.4 para ahora.</string>
+	<key>Almost all the settings update instantly except for changes to icons, and folder size changes. It is a good idea to respring after changing layouts though so it sets with IconSupport.</key>
+	<string>Casi todas las configuraciones se actualizan instantáneamente, excepto los cambios en los íconos y los tamaños de carpetas. Sin embargo, es una buena idea hacer un respring después de cambiar los diseños, para que se los puede agregar con IconSupport.</string>
+	<key>Apply changes</key>
+	<string>Aplicar los cambios (respring)</string>
+	<key>CUSTOM FOLDER LAYOUTS</key>
+	<string>Diseños de carpetas personalizados</string>
+	<key>Credits and Support</key>
+	<string>Créditos y soporte técnico.</string>
+	<key>Custom Layouts</key>
+	<string>Diseños Personalizados</string>
+	<key>Custom corner radiuses</key>
+	<string>Radios de esquina personalizados</string>
+	<key>Custom folder layouts</key>
+	<string>Diseños de carpetas personalizados</string>
+	<key>Custom layouts</key>
+	<string>Diseños personalizados</string>
+	<key>Enable custom insets</key>
+	<string>Habilitar inserciones personalizadas</string>
+	<key>FOLDER INSETS (COMING SOON)</key>
+	<string>Inserciones de carpetas abiertas (VIENE PRONTO)</string>
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>¿Tienes errores? Conflictos? 🤔 Visite el soporte técnico en la página siguiente. Esta es la mejor manera de obtener ayuda, ya que envía por correo electrónico la configuración de FolderControllerXIII y una lista de paquetes instalados que podrían estar interfiriendo.</string>
+	<key>More improvements coming soon.</key>
+	<string>Más mejoras próximamente.</string>
+	<key>Often only one custom layout tweak may be used at a time.  This tweak, while designed to be compatible with others as much as possible, may conflict with other custom layout tweaks, or others may make this one not work.  If the tweak does not appear to be working, check for potential conflicts before assuming this tweak is broken.</key>
+	<string>A menudo, solo se puede usar un paquete que cambia el diseño personalizado a la vez. Este paquete, aunque está diseñado para ser compatible con otros tanto como sea posible, puede entrar en conflicto con otros ajustes de diseño personalizados, u otros pueden hacer que este no funcione. Si el ajuste no parece estar funcionando, verifique posibles conflictos antes de asumir que este paquete está roto.</string>
+	<key>Set custom number of columns inside folder.</key>
+	<string>Establecer número personalizado de columnas dentro de la carpeta.</string>
+	<key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
+	<string>Establecer el número de filas y columnas cuando la carpeta esta abierto. No necesita respring, si es necesario "Aplica los cambios".</string>
+</dict>
+</plist>

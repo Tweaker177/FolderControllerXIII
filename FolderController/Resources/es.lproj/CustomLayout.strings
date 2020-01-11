@@ -45,7 +45,7 @@
 	
 	<key>Enable custom insets</key>
 	<string>Habilitar inserciones personalizadas</string>
-    <key>FOLDER INSETS (COMING SOON)</key>
+    <key>FOLDER INSETS</key>
     <string>Inserciones de carpetas abiertas (VIENE PRONTO)</string>
 	
 	

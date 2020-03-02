@@ -10,5 +10,9 @@ That has only the strings needed for first/ main page.
 I did the same with CustomLayouts for easier translating. Just change Spanish to your language.
 
 If you don't see your native language on here, you can fork the repo and create a folder with the corresponding abbreviation.lproj and add the strings in there.
+I will give credit in the about section of the tweak that includes a link to your Twitter, if desired.  Any questions or concerns feel free to contact me on Twitter @BrianVS
 
-I WILL BE HAPPY TO GIFT ANY TRANSLATOR A COPY OF THE TWEAK, just contact me on Twitter @BrianVS
+
+
+Apologies that the files have some extra phrases and other redundancies; the tweak was totally restructured and I did a lot of copy pasting of older translations, and have been more focused on the tweak itself then the translations.
+I will definitely add any new languages sent to me or forked on here, though.

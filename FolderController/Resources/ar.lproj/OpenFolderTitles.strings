@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+<string>Casi todas las configuraciones se actualizan instantáneamente, excepto algunos cambios de los íconos y diseños personalizados. Aplicar cambios se asegurará de que todos los valores estén configurados según lo deseado.</string>
+
+<key>Anything larger then zero enables the title background border.</key>
+<string>Cualquier valor mayor a cero habilita el borde para los fondos de los títulos.</string>
+
+<key>Apply changes</key>
+	<string>Aplicar los cambios (respring)</string>
+<key>Border thickness:</key>
+<string>Grosor del borde:</string>
+
+<key>Centered</key>
+<string>Centrado</string>
+
+<key>Choose a segment cell to have open folder titles aligned to the left, the right, or centered (the default).</key>
+<string>Elija una celda de segmento para tener los títulos de carpeta abiertos alineados a la izquierda, la derecha o centrados (el valor predeterminado).</string>
+
+<key>Corner radius</key>
+	<string>Radios de esquina</string>
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Configuración para los radios de esquina de las carpetas abiertas y sus iconos (carpetas cerradas)</string>
+	<key>Credits and Support</key>
+	<string>Créditos y soporte técnico.</string>
+<key>Custom animation delay</key>
+<string>Retraso de animación</string>
+
+<key>Customize folder titles</key>
+<string>Personalizar títulos de carpetas</string>
+
+<key>CUSTOM FOLDER TITLE SIZE</key>
+<string>Tamaño personalizado para los títulos de carpetas</string>
+
+
+	<key>Custom corner radiuses</key>
+	<string>Radios de esquina personalizados</string>
+
+<key>Custom set the background and border colors for open folder titles. Both have working alpha for translucent colors.</key>
+<string>Pesonalizar los fondos de los títulos de carpetas abiertas. Se puede escoger colores para el fondo y también los bordes. Los dos tienen la opción de ajustar el alfa.</string>
+
+<key>Custom set the title color for open folders.</key>
+<string>Escoge el color para el título de las carpetas abiertas</string>
+
+<key>Custom set the title font size of open folders. If the value is too big or small it may resize to a more appropriate size.</key>
+<string>Escoge el tamaño de los títulos de carpetas abiertas. Si el valor es demasiodo grande o pequeño hay la posibilidad de que se cambie para caber mejor.</string>
+
+
+
+<key>Custom title alignment</key>
+<string>Alineación de título personalizada</string>
+
+<key>Enable background color</key>
+<string>Habilitar color de fondo</string>
+
+<key>Enable to set a custom title size, change the alignment, and customize the background views of open folders.</key>
+<string>Habilitar para establecer un tamaño de título personalizado, cambiar la alineación y personalizar las vistas de fondo de las carpetas abiertas.</string>
+
+<key>FOLDER TITLE BACKGROUND</key>
+<string>Fondo de títulos de carpetas</string>
+
+<key>FOLDER TITLE COLOR</key>
+<string>Color del título de las carpetas</string>
+
+<key>FOLDER TITLE CORNER RADIUS</key>
+<string>Radio de esquina para el título de carpetas</string>
+
+<key>Folder Titles</key>
+<string>Títulos de Carpetas</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>¿Tienes errores? Conflictos? 🤔 Visite el soporte técnico en la página siguiente. Esta es la mejor manera de obtener ayuda, ya que envía por correo electrónico la configuración de FolderControllerXIII y una lista de paquetes instalados que podrían estar interfiriendo.</string>
+
+<key>Left side</key>
+<string>Izquierda</string>
+
+	<key>More improvements coming soon.</key>
+	<string>Más mejoras próximamente.</string>
+
+<key>Right side</key>
+<string>Lado derecho</string>
+
+<key>Title background color:</key>
+<string>Color del fondo para títulos</string>
+
+<key>Title border color:</key>
+<string>Color del borde para títulos</string>
+
+<key>Title color:</key>
+<string>Color del título</string>
+
+<key>Title Options</key>
+<string>Opciones de Título</string>
+
+<key>Use bold font</key>
+<string>Usar fuente en negrita</string>
+
+</dict>
+</plist>

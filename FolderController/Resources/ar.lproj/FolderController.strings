@@ -1,92 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-<key>Add a BG image-No Respring needed</key>
-<string>إضافة صورة خلفية</string>
-<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
-	<string>يتيح لك ذلك استخدام المجلدات كجزء من اختيار الرموز المتعددة لإعادة ترتيب شاشتك الرئيسية بسرعة. في وضع التحرير ، اسحب مع الاستمرار إلى أيقونة واحدة ، ثم انقر فوق الآخرين لتحديد أيقونات متعددة.</string>
-<key>Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired.</key>
-<string>يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء التغييرات التي تطرأ على أيقونات المجلد وتغييرات حجم المجلد. "تطبيق التغييرات" ستعيد تشغيل جهازك وتضمن تعيين جميع القيم حسب الرغبة.</string>
-
-	<key>Apply changes</key>
-	<string>تطبيق التغييرات (إعادة التشغيل)</string>
-<key>Choose background image</key>
-<string>اختيار صورة الخلفية</string>
-
-<key>Closed folders</key>
-<string>المجلدات المغلقة</string>
-	<key>Closing folders</key>
-	<string>إغلاق المجلدات</string>
-
-<key>Corner radius</key>
-	<string>نصف قطر الزوايا</string>
-<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
-<string>إعدادات لتغيير نصف قطر زوايا المجلدات المفتوحة وأيقوناتها (مجلدات مغلقة على الشاشة الرئيسية).</string>
-	<key>Credits and Support</key>
-	<string>الاعتمادات والدعم الفني</string>
-	<key>Custom corner radiuses</key>
-	<string>نصف قطر ركن مخصص</string>
-	<key>Custom folder layouts</key>
-	<string>تخطيطات مجلد مخصص</string>
-
-<key>CUSTOM LAYOUTS AND INSETS</key>
-<string>تخطيطات مخصصة وإدراج</string>
-	<key>Custom layouts</key>
-<string>تخطيطات مخصصة</string>
-
-<key>Enable BG image:</key>
-<string>تمكين صورة الخلفية:</string>
-
-	<key>Enable tweak</key>
-	<string>تمكين الأداة</string>
-
-	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
-	<string>للوصول إلى جميع أدواتي المجانية ، أضف المستودع الخاص بي ، وتحقق من الحزم الأخرى المتاحة في BigBoss و Packix.</string>
-	<key>Free tweaks in BigBoss</key>
-	<string>أدوات مجانية استضافتها BigBoss</string>
-
-	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
-	<string>هل لديك أخطاء؟ الصراعات المحتملة؟ 🤔 تفضل بزيارة الدعم الفني في الصفحة التالية. هذه هي أفضل طريقة للحصول على المساعدة ، حيث تقوم بإرسال بريد إلكتروني يحتوي على إعدادات FolderControllerXIII وقائمة الحزم المثبتة التي قد تتداخل.</string>
-
-	<key>IMAGE ALPHA</key>
-	<string>قيمة ألفا للصورة</string>
-
-	<key>More improvements coming soon.</key>
-	<string>المزيد من التحسينات قريبا.</string>
-
-	<key>Multi-Folder select</key>
-	<string>حدد مجلدات متعددة</string>
-
-	<key>Open Folder Options</key>
-	<string>خيارات للمجلدات المفتوحة</string>
-
-<key>Open folders</key>
-<string>افتح المجلدات</string>
-
-<key>Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better.</key>
-<string>ختر أي صورة من لفة الكاميرا لإضافتها كصورة خلفية داخل المجلدات المفتوحة. يعمل مع التدرجات أو تراكب الألوان الصلبة. فقط قم بتقليل ألفا لرؤية الألوان بشكل أفضل.</string>
-
-<key>Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image.</key>
-<string>ضبط مستوى ألفا لرؤية الألوان المخصصة على الصورة. واحد هو القوة الكاملة ، والصفر سوف تخفي الصورة.</string>
-
-
-<key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
-<string>إعدادات لأحجام المجلدات المخصصة ، وألوان الخلفية والتدرجات ، والتمويه المخصص وراء المجلدات المفتوحة ، والمزيد.</string>
-
-	<key>Settings for how to close folders, as well as folder icon settings.</key>
-	<string>إعدادات لكيفية إغلاق المجلدات ، وكذلك إعدادات أيقونة المجلد.</string>
-
-	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 12.</key>
-	<string>شكرا لك على الشراء. تحظى بتقدير كبير أي تبرعات إضافية ، حيث سأواصل تحسين هذه الأداة ، وتقديم الدعم لنظام التشغيل iOS 12 و 13 وما فوق.</string>
-
-<key>Thanks for your support!</key>
-<string>شكرا لدعمك!</string>
-
-	<key>Turns on the tweak. Turn off to reset all changes to original values.</key>
-	<string>تمكن الأداة. قم بإيقاف التبديل لإعادة تعيين جميع التغييرات على القيم الأصلية.</string>
-
-	<key>👉 Add my repo</key>
-	<string> أضف المستودع الخاص بي</string>
-</dict>
-</plist>
+"ABOUT"="حول";
+"Add a BG image-No Respring needed"="أضف صورة خلفية لاتحتاج ريسبرنج";
+"Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select."="يتيح لك استخدام المجلدات كجزء من الاختيار متعدد الأيقونات لإعادة ترتيب شاشتك الرئيسية بشكل أسرع. في وضع التحرير ، اسحب لأسفل مع الاستمرار فوق رمز واحد ، ثم انقر فوق الآخرين لتحديد متعدد.";
+"Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState."="يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء التغييرات على الرموز وتغيير حجم المجلد. سيؤدي تطبيق التغييرات إلى إعادة تشغيل جهازك (ريسبرنج)، والتأكد من تعيين جميع القيم حسب الرغبة.";
+"Apply changes"="تطبيق التغييرات (ريسبرنج)";
+"CUSTOM LAYOUTS AND INSETS"="أعمدة وأدراج مخصصة";
+"Choose background image"="أختر صورة الخلفية";
+"Closed folders"="مجلدات مغلقة";
+"Closing folders"="إغلاق المجلدات";
+"Corner radius"="تحديد الزوايا";
+"Corner radius settings for open folders and their icons (closed folders on homescreen)."="ضبط إعدادات قطر الزاوية للمجلدات المفتوحة وأيقوناتها مع مجلدات مغلقة على الشاشة الرئيسية.";
+"Credits and Support"="الاعتمادات والدعم";
+"Custom corner radiuses"="تحديد زوايا مخصصة";
+"Custom folder layouts"="تحديد مخطط او شكل المجلد";
+"Custom layouts"="تحديد مخطط او الشكل";
+"Donations much appreciated"="التبرعات موضع تقدير كبير";
+"Enable BG image:"="تفعيل صورة الخلفية";
+"Enable tweak"="تفعيل الأداة";
+"For access to all my free tweaks; add my repo, and check out packages available in BigBoss ."="للوصول الكامل إلى أدواتي المجانية أضف سورسي الخاص وهنالك أدوات أخرى على سورس البيق بووس.";
+"Free tweaks in BigBoss"="أدوات مجانية ع سورس بيق بووس";
+"Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering."="حصلت مشاكل💢؟ تعارض أدوات🤔؟ تفضل بزيارة الدعم الفني في الصفحة التالية، هذه هي أفضل طريقة للحصول على المساعدة، نظرًا لقيامها بإرسال بريد إلكتروني إلى دعم FolderControllerXIII وقائمة الحزم المثبتة التي قد تتداخل.";
+"IMAGE ALPHA"="تظليل الصورة";
+"More improvements coming soon."="المزيد من التحسينات قادمة قريبا.";
+"Multi-Folder select"="تحديد مجلد متعدد";
+"Open Folder Options"="خيارات مجلد مفتوح";
+"Open folders"="مجلدات مفتوحة";
+"Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on\/off)"="خيارات لكيفية إغلاق المجلدات. يسمح لك بالضغط في أي مكان ، ولإغلاق مجلد استخدام إيماءة القرص (إنكماش) خارج المجلد لإغلاقه. (قرصة تتطلب respring لتشغيل \/ إيقاف)";
+"Options to adjust appearance of title and the home screen blur\/ background behind an open folder. No resprings needed. Open folder colors can be changed without needing respring as well."="خيارات لضبط مظهر العنوان وتظليل خلفية الشاشة الرئيسية خلف مجلد مفتوح. لا تحتاج ريسبرنج يمكن تغيير ألوان المجلد المفتوح دون الحاجة إلى ريسبرنج كذلك.";
+"Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better."="اختر أي صورة لإضافتها كصورة خلفية داخل المجلدات المفتوحة. يعمل مع التدرجات أو لون صلب أعلى. فقط قم بتقليل تظليل لرؤية الألوان بشكل أفضل.";
+"Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image."="تعيّن مستوى تظليل مخصصًا لتتمكن من رؤية الألوان أعلى الصورة. واحد هو القوة الكاملة ، والصفر سوف تخفي الصورة.";
+"Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more."="إعدادات لأحجام المجلدات المخصصة ، وألوان الخلفية والتدرجات ، والتمويه المخصص وراء المجلدات المفتوحة ، والمزيد.";
+"Settings for how to close folders, as well as folder icon settings."="إعدادات لكيفية إغلاق المجلدات ، وكذلك إعدادات أيقونة المجلد.";
+"Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 12."="شكرا لك على الشراء. تحظى بتقدير كبير أي تبرعات إضافية ، حيث سأواصل تحسين الأداة ، وتقديم الدعم لنظام iOS 12.";
+"Turns on the tweak. Turn off to reset all changes to original values."="تفعيل الأداة و ايقاف بقية الخيارات للإعدادات الافتراضية ";
+"Tweak created by:"="الأداة بواسطة";
+"i0s_tweak3r"="i0s_tweak3r المطور";
+"👉 Add my repo"="أضف سورسي الخاص";

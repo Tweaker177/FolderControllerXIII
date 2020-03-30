@@ -1,17 +1,21 @@
 Currently only the Spanish language project is fully translated with the correct strings. 
 Also, as new features are added, that will be the first language updated, as it's the second language I became fluent in over the years, and easiest for me to translate.
 
-If you download those files, you can change the Spanish translations to your native language, leaving the English part how it is, and then create a pull request on here for your language using the edited file(s), or upload the corrected file(s) and send it to me on Twitter @BrianVS
+The easiest way to translate would be to download the files in the es.lproj folder. They contain the correct English strings that need translating.
+If you download those files, you can change the Spanish translations to your native language, leaving the English part how it is.
 
-FolderController.strings is the main file for the first page, and only needs strings that are on that page(The ones that are in spanish project folder, es.lproj).  Extras won't hurt though.
-I actually just made the file shorter so FolderController.strings has only the needed strings to translate the main pagae of the tweak, without any extras.
+I'd also recommend downloading the existing files for your language if applicaple, as you may be able to skip several strings, or just make minor chages.
 
-I did the same with CustomLayouts for easier translating. Just change Spanish to your language.
+FolderController.strings is the main file for the first page, and only needs strings that are on that page(The ones that are in spanish folder, es.lproj).  Extras won't hurt though.
+I recently made the file shorter so now the Spanish FolderController.strings has only the needed strings to translate the main page of the tweak.
+I did the same with CustomLayouts, and OpenFolderTitles is new so it only has the needed strings. Just change Spanish to your language, and so on with each other page.
+
+Onced finished translating all the pages, or any of the pages, you can then create a pull request on here using the edited file(s), or upload the corrected file(s) to a cloud sharing service, and send a link to me on Twitter @BrianVS
+
 
 If you don't see your native language on here, you can fork the repo and create a folder with the corresponding abbreviation.lproj and add the strings in there.
 I will give credit in the about section of the tweak that includes a link to your Twitter, if desired.  Any questions or concerns feel free to contact me on Twitter @BrianVS
 
 
-
-Apologies that the files have some extra phrases and other redundancies; the tweak was totally restructured and I did a lot of copy pasting of older translations, and have been more focused on the tweak itself then the translations.
+Apologies that some of the files have extra phrases and redundancies; the tweak was totally restructured and I did a lot of copy pasting of older translations, and have been more focused on the tweak itself then the translations.
 I will definitely add any new languages sent to me or forked on here, though.

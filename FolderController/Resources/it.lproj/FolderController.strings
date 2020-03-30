@@ -2,164 +2,112 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular.</key>
-	<string>Regola il raggio dell'angolo delle cartelle chiuse (icone della cartella) da 0 (quadrato) e da 28 a 30 (circolare).</string>
-	<key>Adjust color alpha of uncolored folder icons, the image that appears behind rounded, custom colored folders.</key>
-	<string>Regola l'alfa del colore delle icone delle cartelle non colorate, l'immagine che appare dietro le cartelle colorate, arrotondate e personalizzate.</string>
+	<key>Add a BG image-No Respring needed</key>
+	<string>Aggiungi un&apos;immagine di sfondo</string>
+
+
 	<key>Adjust corner radius for open folder backgrounds.</key>
-	<string>Regola il raggio dell'angolo delle cartelle aperte.</string>
-	<key>Adjust opacity or translucency of open folder backgrounds . Zero hides folder backgrounds completely.</key>
-	<string>Regola l'opacità o la traslucenza degli sfondi delle cartelle aperte. Zero nasconde completamente gli sfondi delle cartelle.</string>
-	<key>Adjust slider to set custom max number of rows inside open folders.</key>
-	<string>Regola il cursore per impostare il numero massimo personalizzato di righe all'interno delle cartelle aperte.</string>
-	<key>Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine.</key>
-	<string>Regola l'alfa bianca delle icone delle cartelle non colorate. Lasciare entrambi a zero per visualizzare solo le modifiche del colore personalizzato e del raggio degli angoli (se si utilizza Snowboard). Questa è una soluzione alternativa per il conflitto del raggio angolare con il motore dei temi.</string>
-	<key>Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger.</key>
-	<string>Regola l'inset basso dell'icona. I valori negativi riducono l'inset, il positivo li rende più grandi.</string>
-	<key>Adjusts side icon insets. Negative values reduce insets, positive make them bigger.</key>
-	<string>Regola l'inset laterale dell'icona. I valori negativi riducono l'inset, il positivo li rende più grandi.</string>
-	<key>Adjusts top icon inset. Negative values reduce inset, positive make them bigger.</key>
-	<string>Regola l'inset in alto dell'icona. I valori negativi riducono l'inset, il positivo li rende più grandi.</string>
-	<key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)</key>
-	<string>Consente l'uso di cursori per modificare gli inset delle cartelle aperte. (Rispetto ai bordi e tra le icone)</string>
+	<string>Regola l&apos;angolo del raggio per gli sfondi delle cartelle aperte.</string>
+
+
 	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
-	<string>Permette di usare le cartelle come selezione multipla per riorganizzare la homescreen più velocemente. In modalità di modifica, trascina verso il basso e tieni premuta un'icona, quindi tocca gli altri per la selezione multipla.</string>
-	<key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
-	<string>Qualsiasi valore maggiore di zero abilita il bordo colorato per le cartelle aperte, purchè uno degli interruttori di colore sia abilitato.</string>
+	<string>Ti consente di utilizzare le cartelle come parte della selezione multi-icona per riorganizzare la schermata principale più velocemente. In modalità di modifica, trascina verso il basso e tieni premuta un&apos;icona, quindi tocca altre per la selezione multipla.</string>
+
+	<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+	<string>Quasi tutte le impostazione vengono applicate immediatamente, ad eccezione delle modifiche delle icone e dimensioni delle cartelle. L&apos;applicazione delle modifiche ha bisogno di un respring, assicurarsi che tutti i valori siano impostati in base ai valori desiderati.</string>
+
+
 	<key>Apply changes</key>
-	<string>Applica le modifiche (respring)</string>
-	<key>Auto-close when app opens</key>
-	<string>Chiudi la cartella quando si apre l'app</string>
-	<key>Background blur color:</key>
-	<string>Colore sfocatura dello sfondo:</string>
-	<key>Border color</key>
-	<string>Colore del bordo</string>
-	<key>Border color:</key>
-	<string>Colore del bordo:</string>
-	<key>Border thickness:</key>
-	<string>Spessore del bordo:</string>
-	<key>Choose one of the several different ways your three colors will be blended. If varied button is on it will be random each time folder is opened.</key>
-	<string>Scegli uno dei tanti modi in cui i tre colori verranno miscelati. Se il pulsante stile casuale è attivo, lo stile sarà casuale ogni volta che viene aperta la cartella.</string>
-	<key>Choose open folder size from the segment cell picker- normal (default), full width large square, or nearly full page. Make sure the tap to close feature is on for easy closing of full page folders. Theres room if you forget though.</key>
-	<string>Scegli la dimensione della cartella aperta dal selettore: normale (predefinito), grande quadrato a larghezza intera o quasi a pagina intera. Assicurati che la funzione "Tap per chiudere" sia attiva per una facile chiusura delle cartelle di una pagina intera. Se ti dimentichi, c'è comunque spazio per fare tap al di fuori della finestra aperta, per chiuderla</string>
+	<string>Applica le modifiche</string>
+
+	<key>Choose background image</key>
+	<string>Scegli immagine di sfondo</string>
 	<key>Closed folder coloring</key>
-	<string>Colorazione delle cartelle chiuse</string>
-	<key>Closed folder opacity</key>
-	<string>Opacità delle cartelle chiuse</string>
+	<string>Colore cartelle chiuse</string>
+
+	<key>Closed folders</key>
+	<string>Cartelle chiuse</string>
 	<key>Closing Folders</key>
-	<string>Chiusura cartelle</string>
-	<key>Color icons+border</key>
-	<string>Colore icone+bordi</string>
-	<key>Colors open folders with either a solid color and border, a preset gradient blend of 3 colors you pick, or various gradient styles using the colors below. Border color also will appear if width is greater then zero.</key>
-	<string>Colora le cartelle aperte con tinta unita e un bordo, una sfumatura preimpostata di 3 colori selezionati o vari stili di sfumatura utilizzando i colori sottostanti. Il colore del bordo apparirà se la spessore è maggiore di zero.</string>
+	<string>Cartelle Chiuse</string>
+	<key>Closing folders</key>
+	<string>Cartelle chiuse</string>
+
+	<key>Corner radius</key>
+	<string>Raggio dell&apos;angolo</string>
+
+	<key>CORNER RADIUS AND ANIMATIONS</key>
+	<string>Raggio dell&apos;angolo</string>
+	<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+	<string>Imposta i raggi d&apos;angolo delle cartelle aperte e delle relative icone (cartelle chiuse) </string>
 	<key>Credits and Support</key>
-	<string>Crediti e supporto tecnico</string>
-	<key>Custom background blur</key>
-	<string>Sfocatura dello sfondo personalizzata</string>
-	<key>Custom color alpha:</key>
-	<string>Alfa per colore selezionato:</string>
-	<key>Custom color folder icons, and pick custom border color and thickness. Turn on Support theme images if you have a folder icon as part of your theme you want to see. The border color will work still, but leave theme image original color as icon. Also makes tweak compatible for custom icon images.</key>
-	<string>Scegli il colore personalizzato delle icone delle cartelle, i colori del bordo e lo spessore. Attiva "Immagini del tema di supporto" se hai un'icona di cartella come parte del tema che desideri vedere. Il colore del bordo funzionerà ancora, ma lascerà il colore originale dell'immagine a tema come icona. Rende anche il tweak compatibile per le immagini delle icone personalizzate.</string>
+	<string>Crediti e Supporto</string>
+
+
 	<key>Custom corner radiuses</key>
-	<string>Raggi degli angoli personalizzati</string>
-	<key>Custom folder layouts</key>
-	<string>Layout di cartelle personalizzate</string>
-	<key>Custom folder sizes</key>
-	<string>Dimensioni delle cartelle personalizzate</string>
-	<key>Dark background</key>
-	<string>Sfondo scuro</string>
+	<string>Raggio degli angoli personalizzato</string>
+
+	<key>CUSTOM LAYOUTS AND INSETS</key>
+	<string>Layout personalizzato </string>
+	<key>Custom layouts</key>
+	<string>Layout personalizzato</string>
+
 	<key>Donations much appreciated</key>
-	<string>Grazie per il tuo supporto!</string>
-	<key>Enable custom blur color</key>
-	<string>Abilita colore sfocatura personalizzato</string>
-	<key>Enable custom insets</key>
-	<string>Abilita rientri personalizzati</string>
-	<key>Enable gradient blend</key>
-	<string>Abilita sfumatura</string>
-	<key>Enable opacity slider:</key>
-	<string>Abilita il cursore di opacità:</string>
-	<key>Enable solid colors</key>
-	<string>Abilita colori tinta unita</string>
+	<string>Donazioni gradite</string>
+	<key>Enable BG image:</key>
+	<string>Abilita immagine di sfondo:</string>
+
 	<key>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</key>
-	<string>Abilita per modificare il raggio dell'angolo delle cartelle aperte e chiuse. Respring necessario per abilitare i settaggi.</string>
-	<key>Enable to change opacity of closed folders, how they appear as icons. If corner radius is set higher then standard folder (around 10.0) the corners of it will show unless you turn the opacity down. *Respring needed to take affect for most icon changes.</key>
-	<string>Abilita per cambiare l'opacità delle cartelle chiuse quando appaiono come icone. Se il raggio dell'angolo è impostato su un valore superiore alla cartella standard (attorno a 10,0), gli angoli di esso verranno mostrati a meno che non si abbassi l'opacità. * Respring necessario per la maggior parte delle modifiche alle icone.</string>
+	<string>Abilita per modificare il raggio dell&apos;angolo delle cartelle aperte e chiuse. Respring necessario. </string>
+
 	<key>Enable tweak</key>
-	<string>Abilita il Tweak</string>
-	<key>Folder color or gradient1:</key>
-	<string>Colore cartella o sfumatura 1:</string>
-	<key>Folder icon color</key>
-	<string>Colore dell'icona della cartella</string>
-	<key>FolderControllerXI</key>
-	<string>FolderControllerXI</string>
+	<string>Abilita il tweak</string>
+
 	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
-	<string>Per accedere a tutti i miei Tweak gratuiti, aggiungi la mia repository e controlla i pacchetti disponibili in BigBoss.</string>
+	<string>Per accedere a tutte i miei tweaks gratuiti; aggiungi la mia repo e controlla i pacchetti disponibili in BigBoss.</string>
 	<key>Free tweaks in BigBoss</key>
-	<string>Tweak gratis in BigBoss</string>
-	<key>Full Page</key>
-	<string>Pagina Intera</string>
-	<key>Full Width</key>
-	<string>Larghezza Intera</string>
-	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXII settings, and a list of installed packages that could be interfering.</key>
-	<string>Ho trovato bug 🐜? Tweak(s) in conflitto? Visita il supporto tecnico nella pagina successiva. Questo è il modo migliore per ottenere aiuto, dal momento che invia via e-mail le impostazioni di FolderControllerXII e un elenco di pacchetti installati che potrebbero interferire.</string>
-	<key>Gradient color2:</key>
-	<string>Colore sfumatura 2:</string>
-	<key>Gradient color3:</key>
-	<string>Colore sfumatura 3:</string>
-	<key>Gradient style:</key>
-	<string>Stile sfumatura:</string>
-	<key>Hide the minigrid</key>
-	<string>Nascondi la minigriglia</string>
-	<key>Hide title when folder open</key>
-	<string>Nascondi titolo della cartella aperta</string>
-	<key>IndieDevKB</key>
-	<string>IndieDevKB</string>
-	<key>Keep empty folders</key>
-	<string>Mantieni le cartelle vuote</string>
+	<string>Tweaks gratis su BigBoss</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>Trovato un bug 🐜 ??? Tweak in conflitto ? 🤔 Visita il supporto tecnico nella pagina successiva. Questo è il modo migliore per ottenere aiuto, dal momento che tramite e-mail verranno inviate le impostazioni di FolderControllerXIII e un elenco di pacchetti installati che potrebbero interferire.</string>
+
+	<key>IMAGE ALPHA</key>
+	<string>Alfa Image</string>
+
 	<key>More improvements coming soon.</key>
-	<string>Ulteriori miglioramenti in arrivo ....</string>
+	<string>Presto in arrivo ulteriori miglioramenti </string>
 	<key>Multi-Folder select</key>
-	<string>Selezione multipla delle cartelle</string>
-	<key>No background effects/blur</key>
-	<string>Nessun effetto di sfondo / sfocatura</string>
-	<key>Normal</key>
-	<string>Normale</string>
+	<string>Selezione multipla cartelle</string>
+
 	<key>Open Folder Options</key>
-	<string>Opzioni Cartella aperta</string>
-	<key>Open folder coloring</key>
-	<string>Colorazione della cartella aperta</string>
-	<key>Open folder opacity</key>
-	<string>Opacità della cartella aperta</string>
+	<string>Opzioni cartelle aperte</string>
+
+	<key>Open folders</key>
+	<string>Cartelle aperte</string>
 	<key>Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on/off)</key>
-	<string>Opzioni su come chiudere le cartelle. Tap consente di toccare ovunque, Pinch consente di utilizzare la gesture pizzicare per chiudere. (L'opzione Pinch richiede il respring per essere attivata / disattivata)</string>
+	<string>Opzioni chiusura cartelle. &quot;Tap per chiudere&quot; ti consente di toccare ovunque, &quot;Pizzica per chiudere&quot; usa il gesto pizzica fuori dalla cartella per chiuderla. (Pizzica richiede il respring)</string>
 	<key>Options to adjust appearance of title and the home screen blur/ background behind an open folder. No resprings needed. Open folder colors can be changed without needing respring as well.</key>
-	<string>Opzioni per regolare l'aspetto del titolo e la sfocatura / lo sfondo della schermata iniziale dietro una cartella aperta. Non è necessario fare respring. I colori delle cartelle aperte possono essere modificati senza necessità di respring.</string>
-	<key>Pinch to close</key>
-	<string>Pinch per chiudere</string>
-	<key>Random gradient styles</key>
-	<string>Stile gradiente casuale</string>
-	<key>Set a custom color to go behind open folders. Use slider to adjust color alpha of open folder background blurs. (New beta feature)</key>
-	<string>Imposta un colore personalizzato da visualizzare dietro le cartelle aperte. Usa il cursore per regolare l'alfa colore delle sfocature dello sfondo delle cartelle aperte. (Nuova funzione beta)</string>
-	<key>Set custom number of columns inside folder.</key>
-	<string>Regola il cursore per impostare il numero di colonne dentro alla cartella.</string>
-	<key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
-	<string>Imposta il numero personalizzato di righe e colonne nelle cartelle aperte. Cambia tutte le cartelle. I nuovi settaggi dovrebbero aggiornare immediatamente, altrimenti fare tap su "Applica le modifiche".</string>
-	<key>Settings improved by:</key>
-	<string>Settaggi migliorati da:</string>
-	<key>Show status bar</key>
-	<string>Mostra la barra di stato</string>
-	<key>Support theme images</key>
-	<string>Supporta immagini del tema</string>
-	<key>Tap to close</key>
-	<string>Tap per chiudere</string>
-	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 12.</key>
-	<string>Grazie per l'acquisto.  Ulteriori donazioni sono molto apprezzate, sicoome conitnuerò a migliorare il tweak, e supportare iOS 12.</string>
+	<string>Opzioni per regolare l&apos;aspetto del titolo e la sfocatura/sfondo della schermata principale dietro una cartella aperta. Non è necessario il respring. I colori della cartella aperta possono essere cambiati senza bisogno di respring.</string>
+	<key>Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better.</key>
+	<string>Scegli qualsiasi immagine dalla tua galleria per aggiungerla come immagine di sfondo all&apos;interno delle cartelle aperte. Funziona con gradienti o sovrapposizioni e colori  Basta ridurre l&apos;alfa per vedere meglio i colori.</string>
+
+	<key>Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image.</key>
+	<string>Imposta un livello alfa personalizzato  per vedere i colori sopra l&apos;immagine. 1 è trasparente, 0 nasconde l&apos;immagine.</string>
+
+
+	<key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
+	<string>Imposta le dimensioni delle cartelle personalizzate, i colori di sfondo e le sfumature, le sfocature personalizzate all&apos;interno delle cartelle aperte e altro ancora  </string>
+	<key>Settings for custom folder,dock and homescreen layouts,their insets, as well as mini-grids.</key>
+	<string>Impostazioni per cartelle personalizzate, dock, layout pagina iniziale e mini-grid.</string>
+	<key>Settings for how to close folders, as well as folder icon settings.</key>
+	<string>Opzioni per come chiudere le cartelle e per i settaggi delle icone</string>
+
+	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
+	<string>Grazie per il tuo acquisto. Eventuali donazioni aggiuntive sono molto apprezzate, poiché continuerò a migliorare il tweak e fornirò supporto per iOS 13.</string>
 	<key>Turns on the tweak. Turn off to reset all changes to original values.</key>
-	<string>Abilita il tweak. Disabilita per resettare tutte le impostazioni al valore originale.</string>
+	<string>Abilita il tweak. Disabilita per resettare i valori originali</string>
 	<key>Tweak created by:</key>
-	<string>Tweak creato da:</string>
-	<key>Vary gradient styles</key>
-	<string>Vary gradient styles</string>
+	<string>Tweak scritto da:</string>
+	
 	<key>i0s_tweak3r</key>
 	<string>i0s_tweak3r</string>
 	<key>👉 Add my repo</key>

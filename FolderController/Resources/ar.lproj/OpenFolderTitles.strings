@@ -9,8 +9,9 @@
 <key>Anything larger then zero enables the title background border.</key>
 <string>Cualquier valor mayor a cero habilita el borde para los fondos de los títulos.</string>
 
-	<key>Apply changes</key>=
-	<string>(تطبيق التغييرات (ريسبرنج </string>
+<key>Apply changes</key>
+<string>(تطبيق التغييرات (ريسبرنج </string>
+	
 <key>Border thickness:</key>
 <string>Grosor del borde:</string>
 

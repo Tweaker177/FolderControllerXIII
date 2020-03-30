@@ -3,9 +3,8 @@ Also, as new features are added, that will be the first language updated, as it'
 
 If you download those files, you can change the Spanish translations to your native language, leaving the English part how it is, and then create a pull request on here for your language using the edited file(s), or upload the corrected file(s) and send it to me on Twitter @BrianVS
 
-FolderController.strings is the main file for the first page, and only needs strings that are on that page(The ones that are in spanish project es.lproj).  Extras won't hurt though.
-I actually just made the file shorter and saved it as FolderControllerFirstPage.strings 
-That has only the strings needed for first/ main page.
+FolderController.strings is the main file for the first page, and only needs strings that are on that page(The ones that are in spanish project folder, es.lproj).  Extras won't hurt though.
+I actually just made the file shorter so FolderController.strings has only the needed strings to translate the main pagae of the tweak, without any extras.
 
 I did the same with CustomLayouts for easier translating. Just change Spanish to your language.
 

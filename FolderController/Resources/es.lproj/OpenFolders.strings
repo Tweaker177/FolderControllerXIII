@@ -14,7 +14,13 @@
 	<string>Ajusta la opacidad o la transparencia de los fondos de carpetas abiertas. El valor cero oculta los fondos de la carpeta completamente.</string>
 	<key>Adjust slider to set custom max number of rows inside open folders.</key>
 	<string>Ajuste el control deslizante para establecer el número máximo personalizado de filas dentro de las carpetas abiertas.</string>
-	<key>Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine.</key>
+<key>Adjust the slider to how much extra height you want to add to the normal frame.</key>
+<string>Ajuste el control deslizante a la altura adicional que desea agregar al marco normal.</string>
+
+<key>Adjust the slider to how much width you want to add to the normal frame.</key>
+<string>Ajuste el control deslizante a la cantidad de ancho que desea agregar al marco normal.</string>
+
+<key>Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine.</key>
 	<string>Ajusta el valor alpha de los iconos de carpetas sin color. Deje ambos a cero para ver sólo los cambios personalizados de color y el radio de las esquina (si usa Snowboard). Esa es una solución para el conflicto de radio de la esquina con el motor del tema.</string>
 	<key>Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger.</key>
 	<string>Ajusta la inserción del icono inferior. Los valores negativos reducen la inserción, los positivos los hacen más grandes.</string>
@@ -26,8 +32,8 @@
 	<string>Permite el uso de controles deslizantes para ajustar las inserciones de las carpetas abiertas. (Relativo a los bordes y entre aplicaciones)</string>
 	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
 	<string>Permite usar carpetas como parte de la selección de múltiples íconos para reorganizar su pantalla de inicio más rápido. En el modo de edición, arrastre hacia abajo y mantenga presionado un icono, después toque otros para realizar una selección múltiple.</string>
-<key>Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired.</key>
-<string>Casi todas las configuraciones se actualizan instantáneamente, excepto los cambios en los íconos y los tamaños de carpetas. Aplicar cambios hará que su dispositivo vuelva a funcionar y se asegurará de que todos los valores estén configurados según lo deseado.</string>
+<key>Almost all the settings update instantly except for some changes to icons and layouts. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>Casi todas las configuraciones se actualizan instantáneamente, excepto algunos cambios de los íconos y los diseños personalizados. Aplicar cambios hará que su dispositivo vuelva a funcionar y se asegurará de que todos los valores estén configurados según lo deseado.</string>
 <key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
 	<string>Cualquier valor mayor a cero habilita el borde de color para las carpetas abiertas, suponiendo que una de las opciones de color esté habilitada.</string>
 	<key>Apply changes</key>
@@ -74,8 +80,13 @@
 	<string>Radios de esquina personalizados</string>
 	<key>Custom folder layouts</key>
 	<string>Diseños de carpetas personalizados</string>
-	<key>Custom folder sizes</key>
+
+	<key>Custom folder size</key>
+<string>Tamaño de carpetas personalizada</string>
+
+<key>Custom folder sizes</key>
 <string>Tamaños de carpetas personalizadas</string>
+
 	<key>Custom layouts</key>
 <string>Diseños personalizados</string>
 	<key>Dark background</key>
@@ -104,8 +115,7 @@
 	<string>Color de carpeta o degradado1:</string>
 	<key>Folder icon color</key>
 	<string>Color de los iconos de carpetas</string>
-	<key>FolderControllerXI</key>
-	<string>FolderControllerXI</string>
+
 	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
 	<string>Para acceso completo a todos mis paquetes, añade a mi fuente personal, y chequea a mis tweaks en BigBoss.</string>
 	<key>Free tweaks in BigBoss</key>
@@ -128,6 +138,10 @@
 	<string>Esconder el título (cuando abierta)</string>
 	<key>IMAGE ALPHA</key>
 	<string>ALPHA PARA IMAGENES</string>
+
+<key>iOS 9 Folder Look</key>
+<string>Estilo de carpeta iOS 9</string>
+
 	<key>Keep empty folders</key>
 	<string>Guardar carpetas vacias</string>
 	<key>More improvements coming soon.</key>
@@ -168,8 +182,14 @@
 	<string>Establecer el número de filas y columnas cuando la carpeta esta abierto. No necesita respring, si es necesario "Aplica los cambios".</string>
 <key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
 <string>Configuraciones para tamaños de carpetas personalizadas, colores de fondo y degradados, desenfoques personalizados detrás de carpetas abiertas y más.</string>
+
+
 	<key>Settings for how to close folders, as well as folder icon settings.</key>
 	<string>Configuración para cerrar carpetas, y opciones para los iconos también.</string>
+
+<key>Settings for titles of open folders, including font size, text alignment, background, border and text colors, and more.</key>
+<string>Configuraciones para títulos de carpetas abiertas, incluyendo tamaño de fuente, alineación de texto, colores de fondo, borde y texto.</string>
+
         <key>Settings improved by:</key>
 	<string>Mejoras por:</string>
 	<key>Show status bar</key>
@@ -178,8 +198,17 @@
 	<string>Soporte de imágenes de temas</string>
 	<key>Tap to close</key>
 	<string>Tocar para cerrar</string>
-	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 12.</key>
-	<string>Gracias por su compra. Cualquier donación adicional será muy apreciada, continuaré mejorando el paquete y proporcionaré soporte para iOS 12.</string>
+	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
+	<string>Gracias por su compra. Cualquier donación adicional será muy apreciada, continuaré mejorando el paquete y proporcionaré soporte para iOS 13.</string>
+<key>Title Options</key>
+<string>Opciones de Título</string>
+
+<key>Title options</key>
+<string>Opciones de título</string>
+
+<key>Turn on to adjust the normal frame size into any custom size using the sliders below.</key>
+<string>Habilitar para ajustar el tamaño de la carpeta normal en cualquier tamaño personalizado usando los controles deslizantes a continuación.</string>
+
 	<key>Turns on the tweak. Turn off to reset all changes to original values.</key>
 	<string>Activar tweak. Desactivar para restablecer a valores originales.</string>
 	<key>Tweak created by:</key>
@@ -189,6 +218,6 @@
 	<key>i0s_tweak3r</key>
 	<string>i0s_tweak3r</string>
 	<key>👉 Add my repo</key>
-	<string>Añadir a mi repo</string>
+	<string>👉 Agrega mi repo</string>
 </dict>
 </plist>

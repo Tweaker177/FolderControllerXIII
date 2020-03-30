@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>iconCornerRadiusEnabled</string>
+			<key>label</key>
+			<string>Custom corner radiuses</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>10</real>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>iconCornerRadius</string>
+			<key>max</key>
+			<integer>30</integer>
+			<key>min</key>
+			<real>0.0001</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Adjust corner radius for open folder backgrounds.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>38</real>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>backgroundFolderRadius</string>
+			<key>max</key>
+			<integer>80</integer>
+			<key>min</key>
+			<real>0.0001</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Turn on to speed up opening and closing folders so it appears to skip the animations entirely.</string>
+			<key>label</key>
+			<string>SKIP ANIMATIONS</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>skipAnimations</string>
+			<key>label</key>
+			<string>Skip animations</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Turn on to enable custom animation speeds when opening and closing folders.</string>
+			<key>label</key>
+			<string>CUSTOM ANIMATIONS</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>wantsCustomAnimation</string>
+			<key>label</key>
+			<string>Custom animation delay</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Adjusts animation speed to open and close folders. 0 is fastest, 1 is really slow.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0.05</real>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>animationDuration</string>
+			<key>max</key>
+			<integer>1</integer>
+			<key>min</key>
+			<real>1e-05</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+				<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring:</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Apply changes</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</string>
+			<key>label</key>
+			<string>Credits and Support</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>FCXIIAboutListController</string>
+			<key>isController</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>ABOUT</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSTextCell</string>
+			<key>label</key>
+			<string>More improvements coming soon.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Corner radius</string>
+</dict>
+</plist>

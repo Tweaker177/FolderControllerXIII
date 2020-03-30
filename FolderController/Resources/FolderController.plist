@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Turns on the tweak. Turn off to reset all changes to original values.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enable tweak</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</string>
+			<key>label</key>
+			<string>Open Folder Options</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>OpenFolderController</string>
+			<key>isController</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Open folders</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Add a BG image-No Respring needed</string>
+			<key>footerText</key>
+			<string>Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>wantsBackgroundImage</string>
+			<key>label</key>
+			<string>Enable BG image:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>cellClass</key>
+			<string>LIPImageChooseCell</string>
+			<key>label</key>
+			<string>Choose background image</string>
+			<key>action</key>
+			<string>chooseImage</string>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>FCXIIIFolderBackgroundImage</string>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>usesJPEG</key>
+			<true/>
+			<key>compressionQuality</key>
+			<real>0.8</real>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image.</string>
+			<key>label</key>
+			<string>IMAGE ALPHA</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0.999</real>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>imageAlpha</string>
+			<key>max</key>
+			<real>1</real>
+			<key>min</key>
+			<real>1e-08</real>
+			<key>showValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Settings for how to close folders, as well as folder icon settings.</string>
+			<key>label</key>
+			<string>Closed folders</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ClosingFolderController</string>
+			<key>isController</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Closing folders</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Settings for custom folder, dock and homescreen layouts, their insets, as well as mini-grids.</string>
+			<key>label</key>
+			<string>CUSTOM LAYOUTS AND INSETS</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CustomLayoutController</string>
+			<key>isController</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Custom layouts</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Corner radius settings for open and closed folders (their icons), as well as animation settings.</string>
+			<key>label</key>
+			<string>CORNER RADIUS AND ANIMATIONS</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CornerRadiusController</string>
+			<key>isController</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Corner radius</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.i0stweak3r.foldercontroller-prefsreload</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>SRSwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.i0stweak3r.foldercontroller</string>
+			<key>key</key>
+			<string>multiItem</string>
+			<key>label</key>
+			<string>Multi-Folder select</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring:</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Apply changes</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</string>
+			<key>label</key>
+			<string>Credits and Support</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>FCXIIAboutListController</string>
+			<key>isController</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>ABOUT</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>addMyRepo</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>icon</key>
+			<string>yourepo.png</string>
+			<key>label</key>
+			<string>👉 Add my repo</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>myOtherTweaks</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>icon</key>
+			<string>bigboss.png</string>
+			<key>label</key>
+			<string>Free tweaks in BigBoss</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Paypal</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>icon</key>
+			<string>Paypal@2x.png</string>
+			<key>label</key>
+			<string>Thanks for your support!</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSTextCell</string>
+			<key>label</key>
+			<string>More improvements coming soon.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>FolderControllerXIII</string>
+</dict>
+</plist>

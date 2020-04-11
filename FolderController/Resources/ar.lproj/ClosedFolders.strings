@@ -1,3 +1,4 @@
+"ABOUT"="أعتماد الدعم";
 "Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular."="اضبط قطر الزاوية للمجلدات المغلقة (أيقونات المجلد) من 0 إلى 28 ومن 28 إلى 30 دائري.";
 "Adjust color alpha of uncolored folder icons, the image that appears behind rounded, custom colored folders."="اضبط تظليل ألوان أيقونات المجلد غير الملونة ، الصورة المدورة في خلفية المجلد، تنسيق الوان المجلد.";
 "Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine."="ضبط التظليل الأبيض من ايقونات المجلد غير ملون. اترك كليهما عند الصفر لرؤية تغييرات نصف قطر اللون والزاوية المخصصة فقط (إذا كنت تستخدم Snowboard). هذا حل بديل قطر الزاوية مع محرك الثيمات.";
@@ -38,3 +39,7 @@
 "Show status bar"="إظهار شريط الحالة";
 "Support theme images"="دعم صور الثيمات او الموضوعات";
 "Tap to close"="لمس او ضغط للأغلاق";
+"Hide icon badges"="إخفاء أرقام إشعارات";
+"Enable to hide badges on the folder icons only. Inside the open folders and on regular icons they will still appear."="تفعيل لإخفاء أرقام إشعارات أيقونات داخل مجلد مفتوح.";
+"Clear folder icons"="مجلد شفاف";
+"Enable to hide the background view of folder icons. This will hide the blur and theme images, if applied."="تفعيل لإخفاء خلفية مجلد مفتوح.";

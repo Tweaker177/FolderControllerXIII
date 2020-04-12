@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Same Scale Everywhere</key>
+<string>نفس مقياس الحجم في كل مكان:</string>
+<key>Options for custom icon scale for the home screen, the dock, inside folders, or make everywhere the same scale.</key>
+<string>يمكنك تغيير حجم مقاس أيقونات في كل مكان (شاشة رئيسية، الدوك وداخل مجلدات) من شريط في أعلى.</string>
+<key>Enable same scale for everywhere</key>
+<string>تمكين</string>
+
+<key>Homescreen scale</key>
+<string>شاشة رئيسية:</string>
+<key>Enable to set custom icon scale on home screen.</key>
+<string>تغيير حجم أيقونات شاشة رئيسية فقط.</string>
+<key>Homescreen scale</key>
+<string>تمكين</string>
+
+<key>Homescreen scale portrait</key>
+<string>وضع عمودي للجهاز:</string>
+<key>Set custom icon scale for the home screen in Portrait orientation.</key>
+<string>تغيير حجم أيقونات فقط في وضع عمودي للجهاز.</string>
+	
+<key>Homescreen scale landscape</key>
+<string>وصع أفقي للجهاز:</string>
+<key>Set custom icon scale for the home screen in Landscape orientation.</key>
+<string>تغيير حجم أيقونات فقط في وضع أفقي للجهاز.</string>
+	
+<key>Folder icon scale</key>
+<string>حجم أيقونات داخل مجلد:</string>
+<key>Custom icon scale for inside folders.</key>
+<string>حجم مخصص للأيقونات داخل مجلد.</string>
+<key>Enable scale for folders</key>
+<string>تمكين</string>
+	
+<key>Folder scale portrait</key>
+<string>تخصيص مجلد (وضع عمودي).</string>
+<key>Set custom icon scale for inside folders in Portrait orientation.</key>
+<string>حجم مخصص للأيقونات داخل مجلد في وضع عمودي.</string>
+
+<key>Folder scale landscape</key>
+<string>تخصيص مجلد (وضع أفقي).</string>
+<key>Set custom icon scale for folders in Landscape orientation.</key>
+<string>حجم مخصص للأيقونات داخل مجلد في وضع أفقي.</string>
+
+<key>Dock icon scale</key>
+<string>حجم أيقونات الدوك:</string>
+<key>Custom icon scale for docks and floating docks.</key>
+<string>حجم مخصص لأيقونات الدوك يدعم أيباد.</string>
+<key>Enable scale for Dock</key>
+<string>تمكين</string>
+
+<key>Dock scale portrait</key>
+<string>وضع عمودي (دوك):</string>
+<key>Set custom icon scale for icons in the dock while in Portrait orientation.</key>
+<string>تغيير حجم أيقونات فقط في وضع عمودي للجهاز.</string>
+
+<key>Dock scale landscape</key>
+<string>وضع أفقي (دوك):</string>
+<key>Set custom icon scale for icons in dock in Landscape orientation.</key>
+<string>تغيير حجم أيقونات فقط في وضع أفقي للجهاز.</string>
+
+<key>Apply changes</key>
+<string>(تطبيق التغييرات (ريسبرنج </string>
+<key>Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء التغييرات
+على الرموز وتغيير حجم المجلد سيؤدي تطبيق التغييرات إلى
+إعادة تشغيل جهازك (ريسبرنج) وتطبيق جميع القيم.</string>
+
+<key>Credits and Support</key>
+<string>الاعتمادات والدعم</string>
+<key>ABOUT</key>
+<string>أعتماد الدعم</string>
+<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+<string>حصلت مشاكل💢 أو تعارض أدوات🤔
+تفضل بزيارة الدعم الفني (أعتماد الدعم) هذه هي أفضل
+طريقة للحصول على المساعدة يمكنك إرسال بريد إلكتروني
+إلى مطور مع قائمة الحزم (الأدوات) المثبتة التي قد تتداخل.</string>
+
+<key>More improvements coming soon.</key>
+<string>المزيد من التحسينات قادمة قريبا.</string>
+
+</dict>
+</plist>

@@ -1,11 +1,27 @@
-"Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular."="اضبط قطر الزاوية للمجلدات المغلقة (أيقونات المجلد من الخارج) من 0 إلى 28 ومن 28 إلى 30 دائري.";
-"Adjust corner radius for open folder backgrounds."="ضبط وتحديد قطر الزاوية لخلفيات المجلد المفتوح.";
-"Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired."="يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء التغييرات على الرموز وتغيير حجم المجلد، سيؤدي تطبيق التغييرات إلى إعادة تشغيل جهازك (ريسبرنج)، والتأكد من تعيين جميع القيم حسب الرغبة.";
-"Apply changes"="تطبيق التغييرات (ريسبرنج)";
-"Corner radius"="تحديد الزوايا";
-"Corner radius settings for open folders and their icons (closed folders on homescreen)."="ضبط إعدادات قطر الزاوية للمجلدات المفتوحة وأيقوناتها مع مجلدات مغلقة على الشاشة الرئيسية.";
-"Credits and Support"="الاعتمادات والدعم الفني.";
-"Custom corner radiuses"="تحديد قطر الزوايا";
-"Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons."="تمكن من تغيير قطر الزاوية للمجلدات المفتوحة والمغلقة، تحتاج عمل Respring للتأثير.";
-"Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering."="حصلت مشاكل💢؟ تعارض أدوات🤔؟ تفضل بزيارة الدعم الفني في الصفحة التالية، هذه هي أفضل طريقة للحصول على المساعدة، نظرًا لقيامها بإرسال بريد إلكتروني إلى دعم FolderControllerXIII وقائمة الحزم المثبتة التي قد تتداخل.";
-"More improvements coming soon."="المزيد من التحسينات قادمة قريبا.";
+{
+	"ABOUT"="أعتماد الدعم";
+	"Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular."="اضبط قطر الزاوية للمجلدات المغلقة (أيقونات المجلد من الخارج) من 0 إلى 28 ومن 28 إلى 30 دائري.";
+	"Adjust corner radius for open folder backgrounds."="ضبط وتحديد قطر الزاوية لخلفيات المجلد المفتوح.";
+	"Adjust icon lift scale animation in editing mode."="تغيير حجم أيقونات في وضع تحرير.";
+	"Adjusts animation speed to open and close folders. 0 is fastest, 1 is really slow."="تغيير سرعة حركة فتح وأغلاق مجلدات، 0سريع و1بطيء .";
+	"Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState."="يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء التغييرات على الرموز وتغيير حجم المجلد، سيؤدي تطبيق التغييرات إلى إعادة تشغيل جهازك (ريسبرنج)، والتأكد من تعيين جميع القيم حسب الرغبة.";
+	"Apply changes"="تطبيق التغييرات (ريسبرنج)";
+	"CUSTOM ANIMATIONS"="حركة مخصصة";
+	"CUSTOM DRAG AND DROP"="تخصيص سحب وأسقاط";
+	"Corner radius"="تحديد الزوايا";
+	"Corner radius settings for open folders and their icons (closed folders on homescreen)."="ضبط إعدادات قطر الزاوية للمجلدات المفتوحة وأيقوناتها مع مجلدات مغلقة على الشاشة الرئيسية.";
+	"Credits and Support"="الاعتمادات والدعم الفني.";
+	"Custom animation delay"="تخصيص تأخر حركة";
+	"Custom corner radiuses"="تحديد قطر الزوايا";
+	"Custom drag delay:"="تخصيص تأخر أسقاط أو أفلات";
+	"Custom lift scale animation"="حجم مقاس الحركة";
+	"Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons."="تمكن من تغيير قطر الزاوية للمجلدات المفتوحة والمغلقة، تحتاج عمل Respring للتأثير.";
+	"Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering."="حصلت مشاكل💢؟ تعارض أدوات🤔؟ تفضل بزيارة الدعم الفني في الصفحة التالية، هذه هي أفضل طريقة للحصول على المساعدة، نظرًا لقيامها بإرسال بريد إلكتروني إلى دعم FolderControllerXIII وقائمة الحزم المثبتة التي قد تتداخل.";
+	"More improvements coming soon."="المزيد من التحسينات قادمة قريبا.";
+	"SKIP ANIMATIONS"="تخصيص تخطي الحركات";
+	"Shortens the delay time needed before entering edit mode on the home screen."="يقصر وقت التأخير المطلوب قبل الدخول إلى وضع التحرير على الشاشة الرئيسية.";
+	"Skip animations"="تخطي الحركات";
+	"Turn on to enable custom animation speeds when opening and closing folders."="تمكين سرعات الرسوم المتحركة المخصصة عند فتح المجلدات وإغلاقها.";
+	"Turn on to set a custom drag delay for easier and quicker icon layout changes."="تعيين مهلة سحب مخصصة لتغييرات تخطيط الرمز بشكل أسرع.";
+	"Turn on to speed up opening and closing folders so it appears to skip the animations entirely."="قم بتشغيله لتسريع فتح وإغلاق المجلدات حتى يبدو أكثر تنسيق.";
+}

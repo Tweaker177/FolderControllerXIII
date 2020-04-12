@@ -1,29 +1,69 @@
-"Adjust slider to set custom max number of rows inside open folders."="اضبط شريط التمرير لضبط عدد الصفوف المخصص داخل المجلدات المفتوحة.";
-"Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger."="أضبط الأيقونات من الأسفل، القيم السلبية تقلل من الداخل، والإيجابية تجعلها أكبر.";
-"Adjusts side icon insets. Negative values reduce insets, positive make them bigger."="ضبط أيقونة الجانب. القيم السلبية تقلل من الإدخالات، تجعلها إيجابية أكبر.";
-"Adjusts top icon inset. Negative values reduce inset, positive make them bigger."="يضبط أعلى أيقونات، القيم السالبة للتقليل، إيجابية تجعلها أكبر.";
-"Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)"="للسماح باستخدام شريط التمرير لتعديل ايقونات المجلدات المفتوحة. (نسبة إلى الحواف وبين التطبيقات)";
-"Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps) Only working on iOS 11-12.4.3"="للسماح باستخدام شريط التمرير لتعديل ايقونات المجلدات المفتوحة. (نسبة إلى الحواف وبين التطبيقات) تعمل فقط على نظام التشغيل iOS 11-12.4.3";
-"Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState."="يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء بعض التغييرات على الرموز. إنها لفكرة جيدة "Respring" بعد تغيير التخطيطات على الرغم من أنها تحفظ التخطيط مع IconState.";
-"Apply changes"="تطبيق التغييرات (ريسبرنج)";
-"Auto-close when app opens"="أغلاق تلقائي بعد فتح تطبيقات";
-"CUSTOM DOCK LAYOUTS"="تحديد نسق مخصص للدوك";
+"Often only one custom layout tweak may be used at a time.  This tweak, while designed to be compatible with others as much as possible, may conflict with other custom layout tweaks, or others may make this one not work.  If the tweak does not appear to be working, check for potential conflicts before assuming this tweak is broken."="غالبًا ما يمكن استخدام اداة تخطيط واحدة في كل مرة بينما هذه الأداة  على الرغم من أنه مصمم ليكون متوافقًا مع الآخرين قدر الإمكان ، فقد يتعارض مع تعديلات التنسيق المخصص الأخرى أو قد يجعل هذا الآخر غير ممكن إذا لم تعمل الأداة تحقق من وجود تعارضات محتملة قبل افتراض حذف او تعطيل.";
+
 "CUSTOM FOLDER LAYOUTS"="تحديد نسق مخصص للمجلدات";
-"CUSTOM HOMESCREEN"="(قادم قريباً)";
-"Credits and Support"="الاعتمادات والدعم";
-"Custom Layouts"="تنسيق مخصص";
 "Custom folder layouts"="تنسيق مخصص للمجلدات";
-"Custom homescreen layout"="تنسيق مخصص للشاشة الرئيسية";
-"Custom layouts"="تحديد تنسيق مخصص";
-"Enable custom insets"="تمكين إدراج مخصص";
-"FOLDER INSETS"="أدراج المجلدات";
-"Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering."="حصلت مشاكل💢؟ تعارض أدوات🤔؟ تفضل بزيارة الدعم الفني في الصفحة التالية، هذه هي أفضل طريقة للحصول على المساعدة، نظرًا لقيامها بإرسال بريد إلكتروني إلى دعم FolderControllerXIII وقائمة الحزم المثبتة التي قد تتداخل.";
-"More improvements coming soon."="المزيد من التحسينات قادمة قريبا.";
-"NEW- SET EXACT INSET VALUES."="جديد - تعيين القيم الدقيقة للإدراج";
-"Often only one custom layout tweak may be used at a time.  This tweak, while designed to be compatible with others as much as possible, may conflict with other custom layout tweaks, or others may make this one not work.  If the tweak does not appear to be working, check for potential conflicts before assuming this tweak is broken."="غالبًا ما يمكن استخدام اداة تخطيط مخصص واحدة في كل مرة. هذه الأداة ، على الرغم من أنه مصمم ليكون متوافقًا مع الآخرين قدر الإمكان ، فقد يتعارض مع تعديلات التنسيق المخصص الأخرى ، أو قد يجعل هذا الآخر غير صالح. إذا لم تعمل الأداة ، تحقق من وجود تعارضات محتملة قبل افتراض حذف او تعطيل.";
-"Set custom maximum number of icons in the dock."="تعيين الحد الأقصى المخصص لعدد الأيقونات في الدوك.";
-"Set custom number of columns inside folder."="تحديد عدد الأعمدة في داخل مجلدات";
-"Set custom number of home screen columns in Portrait orientation."="تحديد عدد أعمدة في شاشة الرئيسية في الوضع العمودي";
-"Set custom number of max icons in Dock. Should update immediately, if not hit \"Apply changes\"."="تعيين الحد الأقصى المخصص لعدد الأيقونات في الدوك يتم تطبيقه تلقائياً او أضغط على تطبيق التغييرات (ريسبرنج)";
 "Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit \"Apply changes\"."="تعيين عدد مخصص من الصفوف والأعمدة في المجلدات المفتوحة. لجميع المجلدات. يجب التحديث فورًا ، إن لم يكن ف اضغط تطبيق التغييرات (ريسبرنج).";
-"Set custom number of rows displayed on the home screen in Portrait orientation."="قم بتحديد عدد أعمدة العرض في شاشة الرئيسية في الوضع العمودي";
+
+"Adjust slider to set custom max number of rows inside open folders."="تحديد عدد صفوف في داخل مجلدات مفتوحة.";
+"Set custom number of columns inside folder."="تحديد عدد أعمدة في داخل مجلدات مفتوحة.";
+
+"FOLDER INSETS"="أدراج المجلدات";
+"Enable custom insets"="تمكين إدراج مخصص";
+"Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)"="للسماح باستخدام شريط التمرير لتعديل ايقونات المجلدات المفتوحة. (نسبة إلى الحواف وبين التطبيقات)";
+
+"NEW- SET EXACT INSET VALUES."="وضع جهاز عمودي:";
+"Adjusts top insets of folders in portrait orientation. It moves the icons down as the values increases."="تحريك أيقونات من أعلى إلى أسفل.";
+"Adjusts right side folder inset in portrait orientation. Moves icons to the left as value increases, or towards the right as value decreases."="تحريك أيقونات من يمين إلى يسار.";
+"Adjusts left side inset of folders in portrait orientation . Moves icons to the right as the value increases."="تحريك أيقونات من يسار إلى يمين.";
+"Adjusts bottom folder insets in portrait orientation. Moves icons up as value increases."="تحريك أيقونات من أسفل إلى أعلى.";
+
+"LANDSCAPE FOLDER INSETS"="وضع جهاز أفقي:";
+"Adjusts the top insets of folders in landscape orientation. Shifts icons down as the value increases."="تحريك أيقونات من أعلى إلى أسفل.";
+"Adjusts right side insets of folders in landscape orientation. Shifts the icons towards the left as value increases."="تحريك أيقونات من يمين إلى يسار.";
+"Adjusts left side insets of folders in landscape orientation. Shifts icons towards the right as value increases."="تحريك أيقونات من يسار إلى يمين.";
+"Adjusts bottom folder insets in landscape orientation. Shifts icons up as value increases."="تحريك أيقونات من أسفل إلى أعلى.";
+
+"Resize mini-grids"="شكل مجلد خارجي (أيقونة مجلد):";
+"Enable mini grid resizing so any layout will fit inside the folder icon, and custom layouts of the grid can be achieved."="تغيير حجم لوضع أيقونات بالتنسيق داخل مجلد في شاشة رئيسية.";
+"Enable resized grids"="تمكين تغيير حجم";
+
+"CUSTOM DOCK LAYOUTS"="تغيير عدد أيقونات الدوك:";
+"Set custom number of max icons in Dock. Should update immediately, if not hit \"Apply changes\"."="تعيين الحد الأقصى المخصص لعدد الأيقونات في الدوك يتم تطبيقه تلقائياً او أضغط على تطبيق التغييرات (ريسبرنج).";
+"Custom dock layout"="تمكين";
+"Set custom maximum number of icons in the dock."="تعيين الحد الأقصى المخصص لعدد الأيقونات في الدوك.";
+
+"CUSTOM HOMESCREEN"="تغيير عدد أيقونات شاشة رئيسية:";
+"Custom homescreen layout"="تمكين";
+"Set custom number of home screen columns in Portrait orientation."="عدد أعمدة.";
+"Set custom number of rows displayed on the home screen in Portrait orientation."="عدد صفوف.";
+
+"HOMESCREEN EDGE INSETS"="تخطيط أيقونة الشاشة الرئيسية:";
+"Enable homescreen insets"="تمكين";
+"Allows use of sliders to tweak the insets of your homescreen icon layout. This allows you to place them far apart or close together in boxes.  Turn off for iOS default values to be used."="يسمح بتعديل أجزاء تخطيط أيقونات الشاشة الرئيسية، هذا يسمح لك بوضعها بعيدًا عن بعضها أو تلاصقها معًا، يمكنك تعطيله للعودة إلى وضع طبيعي.";
+
+"SET PORTRAIT INSET VALUES."="وضع جهاز عمودي:";
+"Adjusts top homescreen inset. This slider moves icons down the screen."="تحديد مسافة من أعلى.";
+"Adjusts right side homescreen icon insets. These values shift the icons left."="تحديد مسافة من يمين.";
+"Adjusts left side insets of your homescreen icon layout. This slider shifts your icons towards the right."="تحديد مسافة من يسار.";
+"Adjust bottom homescreen inset, these values move the icons up from the bottom reducing the space in between rows."="تحديد مسافة من أسفل.";
+
+"SET LANDSCAPE INSET VALUES."="وضع جهاز أفقي:";
+"Adjusts top homescreen inset when device orientation is landscape. This slider moves icons down the screen."="تحديد مسافة من أعلى.";
+"Adjusts right side homescreen insets. These values shift the icons left when the device is in landscape orientation."="تحديد مسافة من يمين.";
+"Adjusts left side insets of your homescreen icon layout when in landscape mode. This slider shifts your icons towards the right."="تحديد مسافة من يسار.";
+"Adjust bottom homescreen inset in landscape mode, these values move the icons up from the bottom reducing the space in between rows."="تحديد مسافة من أسفل.";
+
+"Apply changes"="تطبيق التغييرات (ريسبرنج)";
+"Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState."="يتم تحديث جميع الإعدادات تقريبًا على الفور باستثناء بعض التغييرات على الرموز. إنها لفكرة جيدة Respring بعد تغيير التخطيطات على الرغم من أنها تحفظ التخطيط مع IconState.";
+
+"Credits and Support"="الاعتمادات والدعم";
+"ABOUT"="أعتماد الدعم";
+"Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering."="حصلت مشاكل💢؟ تعارض أدوات🤔؟ تفضل بزيارة الدعم الفني في الصفحة التالية، هذه هي أفضل طريقة للحصول على المساعدة، نظرًا لقيامها بإرسال بريد إلكتروني إلى دعم FolderControllerXIII وقائمة الحزم المثبتة التي قد تتداخل.";
+
+"More improvements coming soon."="المزيد من التحسينات قادمة قريبا.";
+
+"Z"="11";
+"ZZ"="22";
+"ZZZ"="33";
+"ZZZZ"="44";
+"ZZZZZ"="55";

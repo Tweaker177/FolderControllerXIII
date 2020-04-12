@@ -129,5 +129,15 @@
 	
 <key>👉 Add my repo</key>
 <string>👉 أضف سورسي الخاص</string>
+
+<key>CUSTOM ICON SCALE</key>
+<string>حجم مقاس أيقونات مخصص</string>
+	
+<key>Icon Scaling</key>
+<string>تعديل حجم أيقونات</string>
+	
+<key>Settings for custom icon scale in the dock, folders and the homescreen.</key>
+<string>إعدادات لتخصيص حجم أيقونات (دوك ومجلدات وشاشة رئيسية).</string>
+
 </dict>
 </plist>

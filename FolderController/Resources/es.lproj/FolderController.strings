@@ -39,6 +39,9 @@
 	<key>Custom corner radiuses</key>
 	<string>Radios de esquina personalizados</string>
 
+<key>CUSTOM ICON SCALE</key>
+<string>ESCALA DE ICONOS PERSONALIZADOS</string>
+
 <key>CUSTOM LAYOUTS AND INSETS</key>
 <string>Diseños personalizados e insertos</string>
 	<key>Custom layouts</key>
@@ -61,6 +64,8 @@
 	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
 	<string>¿Tienes errores? Conflictos? 🤔 Visite el soporte técnico en la página siguiente. Esta es la mejor manera de obtener ayuda, ya que envía por correo electrónico la configuración de FolderControllerXIII y una lista de paquetes instalados que podrían estar interfiriendo.</string>
 
+<key>Icon Scaling</key>
+<string>Escala de iconos</string>
 
 	<key>IMAGE ALPHA</key>
 	<string>ALPHA PARA IMAGENES</string>
@@ -89,6 +94,9 @@
 
 <key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
 <string>Configuraciones para tamaños de carpetas personalizadas, colores de fondo y degradados, desenfoques personalizados detrás de carpetas abiertas y más.</string>
+
+<key>Settings for custom icon scale in the dock, folders and the homescreen.</key>
+<string>Configuración para la escala de iconos personalizados en el dock, las carpetas y la pantalla de inicio.</string>
 
 	<key>Settings for how to close folders, as well as folder icon settings.</key>
 	<string>Configuración para cerrar carpetas, y opciones para los iconos también.</string>

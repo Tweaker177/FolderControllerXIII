@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>Almost all the settings update instantly except for some changes to icons and layouts. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>Casi todas las configuraciones se actualizan instantáneamente, excepto algunos cambios de los íconos y diseños personalizados. Aplicar cambios se asegurará de que todos los valores estén configurados según lo deseado.</string>
+
+<key>Apply changes</key>
+	<string>Aplicar los cambios (respring)</string>
+
+
+
+	<key>Credits and Support</key>
+	<string>Créditos y soporte técnico.</string>
+
+<key>Custom icon scale for docks and floating docks.</key>
+<string>Escala de iconos personalizada para muelles y muelles flotantes.</string>
+
+<key>Custom icon scale for inside folders.</key>
+<string>Escala de icono personalizada para carpetas.</string>
+
+<key>Dock icon scale</key>
+<string>Escala de icono para el Dock</string>
+
+<key>Enable scale for Dock</key>
+<string>Habilitar escala para el Dock</string>
+
+<key>Dock scale landscape</key>
+<string>Escala de icono para el dock, orientación horizontal</string>
+
+<key>Dock scale portrait</key>
+<string>Escala de icono para el dock, orientación vertical</string>
+
+<key>Enable same scale for everywhere</key>
+<string>Habilitar la misma escala en todas partes</string>
+
+<key>Enable scale for folders</key>
+<string>Habilitar escala para carpetas</string>
+
+<key>Enable to set custom icon scale on home screen.</key>
+<string>Habilitar para configurar la escala de iconos personalizados en la pantalla de inicio.</string>
+
+<key>Folder icon scale</key>
+<string>Escala de icono para carpetas</string>
+
+<key>Folder scale landscape</key>
+<string>Escala de icono para carpetas orientación horizontal</string>
+
+<key>Folder scale portrait</key>
+<string>Escala de icono para carpetas orientación vertical</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>¿Tienes errores? Conflictos? 🤔 Visite el soporte técnico en la página siguiente. Esta es la mejor manera de obtener ayuda, ya que envía por correo electrónico la configuración de FolderControllerXIII y una lista de paquetes instalados que podrían estar interfiriendo.</string>
+
+<key>Homescreen scale</key>
+<string>Escala de la pantalla Home</string>
+
+<key>Homescreen scale landscape</key>
+<string>Escala de icono en orientación horizontal</string>
+
+<key>Homescreen scale portrait</key>
+<string>Escala de la pantalla de inicio en orientación vertical</string>
+
+
+
+	<key>More improvements coming soon.</key>
+	<string>Más mejoras próximamente.</string>
+
+<key>Options for custom icon scale for the home screen, the dock, inside folders, or make everywhere the same scale.</key>
+<string>Las opciones para la escala de iconos personalizados para la pantalla de inicio, el dock, las carpetas internas o hacen que todas las partes tengan la misma escala.</string>
+
+<key>Same Scale Everywhere</key>
+<string>Mismo escala en todas partes</string>
+
+<key>Set custom icon scale for folders in Landscape orientation.</key>
+<string>Establezca una escala de iconos personalizada para carpetas en orientación horizontal.</string>
+
+<key>Set custom icon scale for the home screen in Landscape orientation.</key>
+<string>Establezca una escala de iconos personalizada para la pantalla de inicio en orientación horizantal</string>
+
+<key>Set custom icon scale for icons in dock in Landscape orientation.</key>
+<string>Establezca una escala de iconos personalizada para los iconos en el dock en orientación horizontal.</string>
+
+<key>Set custom icon scale for icons in the dock while in Portrait orientation.</key>
+<string>Establezca una escala de iconos personalizada para los iconos en el dock mientras está en orientación vertical.</string>
+
+<key>Set custom icon scale for the home screen in Portrait orientation.</key>
+<string>Establezca una escala de iconos personalizada para la pantalla de inicio en orientación vertical.</string>
+
+<key>Set custom icon scale for inside folders in Portrait orientation.</key>
+<string>Establezca una escala de iconos personalizada para el interior de las carpetas en orientación vertical.</string>
+
+</dict>
+</plist>

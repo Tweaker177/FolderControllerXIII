@@ -1,75 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//TR" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ABOUT</key>
-	<string>Hakkında</string>
+<key>Add a BG image-No Respring needed</key>
+<string>Arkaplan ekle - Respring gerektirmez</string>
 	<key>Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular.</key>
 	<string>Kapalı klasörleri (klasör simgeleri) köşe yarıçapını 0 da kare, 28-30 da dairesel olacak şekilde ayarlayın.</string>
 	<key>Adjust color alpha of uncolored folder icons, the image that appears behind rounded, custom colored folders.</key>
-	<string>Normal, renksiz klasör simgelerinin alfa renklerini ayarlayın.</string>
+	<string>Renklendirilmemiş klasör ikonlarının saydamlığını ayarlayın,yuvarlatılmış özel renkli klasörlerin arkasında görünür.</string>
 	<key>Adjust corner radius for open folder backgrounds.</key>
-	<string>Açık klasör arka planları için köşe yarıçapını ayarlayın</string>
+	<string>Açık klasör arka planları için köşe yarıçapını ayarlayın.</string>
 	<key>Adjust opacity or translucency of open folder backgrounds . Zero hides folder backgrounds completely.</key>
 	<string>Açık klasör arka planlarının opaklığını veya yarı saydamlığını ayarlayın. Sıfır, klasör arka planını tamamen gizler.</string>
 	<key>Adjust slider to set custom max number of rows inside open folders.</key>
 	<string>Açık klasörler içindeki özel maksimum satır sayısını ayarlamak için kaydırıcıyı ayarlayın.</string>
 	<key>Adjust white alpha of uncolored folder icons. Leave both at zero to see only custom color and corner radius changes (if you use Snowboard). Thats a workaround for corner radius conflict with the theme engine.</key>
-	<string>Renksiz klasör simgeleri beyaz alfa ayarlayın. Sadece özel renk ve kenarlığı görmek için ikisini de sıfırda bırakın.</string>
+<string>Renksiz klasör simgelerinin beyaz dengesini ayarlayın. Sadece özel renk ve kenarlığı görmek için ikisini de sıfırda bırakın.</string>
 	<key>Adjusts bottom icon inset. Negative values reduce inset, positive makes them bigger.</key>
-	<string>Alttaki simge içini ayarlar. Negatif değerler iç metinleri azaltır, pozitif değer onları daha büyük yapar.</string>
+	<string>Simgelerin altındaki boşlukları ayarlayın.Negatif değerler bunu azaltır,pozitif değerler arttırır.</string>
 	<key>Adjusts side icon insets. Negative values reduce insets, positive make them bigger.</key>
-	<string>Yan simge iç kısımlarını ayarlar. Negatif değerler iç metinleri azaltır, pozitif değerleri daha büyük hale getirir.</string>
-	<key>Adjusts top icon inset. Negative values reduce inset, positive make them bigger. </key>
-	<string>Üst simge içini ayarlar. Negatif değerler iç metinleri azaltır, pozitif değer onları daha büyük yapar. </string>
+	<string>Simgelerin yanlarındaki boşlukları ayarlayın.Negatif değerler bunu azaltır,pozitif değerler arttırır.</string>
+	<key>Adjusts top icon inset. Negative values reduce inset, positive make them bigger.</key>
+	<string>Simgelerin üstündeki boşlukları ayarlayın.Negatif değerler bunu azaltır,pozitif değerler arttırır.</string>
 	<key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)</key>
-	<string>Sürgü kullanımının açık klasör iç kısımlarını ince ayarlaması için izin verir. (Kenarlara göre ve uygulamalar arasında)</string>
+	<string>Açık klasörlerin iç kısımlarını değiştirmek için kaydırıcılaın kullanılmasına izin ver.(Kenarlara göre ve uygulamalar arasında)</string>
 	<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
-	<string>Ana ekranınızı daha hızlı yeniden düzenlemek için çoklu simge seçiminin bir parçası olarak klasörleri kullanmanızı sağlar. Düzenleme modunda, bir simgeyi aşağı doğru sürükleyip tutun, ardından çoklu seçim için diğerlerine dokunun. Cevap vermeden simge değişikliklerini önizlemek için de kullanılabilir.</string>
-	<key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
-	<string>Sıfırdan büyük olan herhangi bir şey, renk anahtarlarından birinin etkin olduğunu varsayarak açık klasörler için renkli kenarlığı etkinleştirir.</string>
+	<string>Ana ekranınızı daha hızlı yeniden düzenlemek için çoklu simge seçiminin bir parçası olarak klasörleri kullanmanızı sağlar. Düzenleme modunda, bir simgeyi aşağı doğru sürükleyip tutun, ardından çoklu seçim için diğerlerine dokunun.</string>
+<key>Almost all the settings update instantly except for changes to icons, and folder size changes. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>Simgeler ve düzenlerde yapılan bazı değişiklikler dışında neredeyse tüm ayarlar anında güncellenir.Respring,tüm değerlerin istediğiniz gibi ayarlandığından emin olur.</string>
+<key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
+	<string>Sıfırdan büyük her değer, renk anahtarlarından birinin etkinleştirildiği varsayılarak açık klasörler için renkli kenarlığı etkinleştirir.</string>
 	<key>Apply changes</key>
-	<string>Değişiklikleri Uygula (Respring)</string>
+	<string>Değişiklikleri uygula (Respring)</string>
 	<key>Auto-close when app opens</key>
 	<string>Uygulama açıldığında otomatik kapat</string>
+	<key>Background blur color:</key>
+	<string>Arkaplan blur rengi:</string>
 	<key>Border color</key>
-	<string>Sınır rengi</string>
+	<string>Kenarlık rengi</string>
 	<key>Border color:</key>
-	<string>Sınır Rengi:</string>
+	<string>Kenarlık rengi:</string>
 	<key>Border thickness:</key>
-	<string>Sınır Kalınlığı:</string>
+	<string>Kenarlık kalınlığı:</string>
 	<key>Choose one of the several different ways your three colors will be blended. If varied button is on it will be random each time folder is opened.</key>
 	<string>Üç rengin karıştırılacağı çeşitli yollardan birini seç. Eğer karışık düğme açıksa, her klasör açıldığında rastgele olacak.</string>
 	<key>Choose open folder size from the segment cell picker- normal (default), full width large square, or nearly full page. Make sure the tap to close feature is on for easy closing of full page folders. Theres room if you forget though.</key>
-	<string>Segment hücre seçiciden açık klasör boyutunu seçin.Tam sayfa klasörlerin kapanması için Kapatmak için dokunun özelliğinin açık olduğundan emin olun. Eğer unutursanız oda var.</string>
-	<key>Closed folder coloring</key>
-	<string>Kapalı Klasör Rengi</string>
+	<string>Hücre seçiciden açık klasör boyutunu seçin.Tam sayfa klasörlerin kapanması için Kapatmak için dokunun özelliğinin açık olduğundan emin olun. Eğer unutursanız orada yer var.</string>
+<key>Clear icons/ opacity</key>
+<string>İkonların opaklığı</string>
+<key>Closed folder coloring</key>
+	<string>Kapalı klasör rengi</string>
 	<key>Closed folder opacity</key>
 	<string>Kapalı klasör opaklığı</string>
+<key>Closed folders</key>
+<string>Kapalı klasörler</string>
 	<key>Closing Folders</key>
-	<string>Klasörleri Kapatma</string>
+	<string>Klasörleri kapatma</string>
 	<key>Color icons+border</key>
-	<string>İkonların ve sınırlaın Rengi</string>
+	<string>İkon rengi+kenarlık</string>
 	<key>Colors open folders with either a solid color and border, a preset gradient blend of 3 colors you pick, or various gradient styles using the colors below. Border color also will appear if width is greater then zero.</key>
-	<string>Klasörleri düz bir renk ve kenarlık, seçtiğiniz 3 rengin önceden belirlenmiş bir degrade karışımı veya aşağıdaki renkleri kullanarak çeşitli degrade stilleriyle açar. Kenarlık rengi, genişlik sıfırdan büyükse de görünür.</string>
+	<string>Klasörleri düz bir renk ve kenarlık, seçtiğiniz 3 rengin önceden belirlenmiş bir degrade karışımı veya aşağıdaki renkleri kullanarak çeşitli degrade stilleriyle açar. Kenarlık rengi, genişlik sıfırdan büyükse görünür.</string>
+<key>CORNER RADIUS</key>
+	<string>Köşe yarıçapı</string>
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Açık klasörler için ve ikonları için köşe yarıçapı (ana ekrandaki kapanmış klasörler)</string>
 	<key>Credits and Support</key>
-	<string>Emeği Geçenler ve Destek</string>
+	<string>Hakkında ve Destek</string>
+	<key>Custom background blur</key>
+	<string>Özel arkaplan blur efekti</string>
 	<key>Custom color alpha:</key>
-	<string>Özel Alfa Renk:</string>
+	<string>Özel renk saydamlığı:</string>
 	<key>Custom color folder icons, and pick custom border color and thickness. Turn on Support theme images if you have a folder icon as part of your theme you want to see. The border color will work still, but leave theme image original color as icon. Also makes tweak compatible for custom icon images.</key>
-	<string>Özel renk klasörü simgeleri ve özel kenarlık rengi ve kalınlığı seçin.Temanızın bir parçası olarak bir klasör simgesine sahipseniz görmek istediğiniz Tema ikonları desteği'ni açın. Kenarlık hala işe yarayacak, ancak tema görüntüsünü orijinal renk olarak simge bırakacaktır. Ayrıca, CustomFolderIcons ve diğer simge ayarlarıyla uyumlu hale getirir.</string>
-	<key>Custom corner radiuses</key>
-	<string>Özel köşe yarıçapları</string>
-	<key>Custom folder layouts</key>
-	<string>Özel klasör düzenleri</string>
-	<key>Custom folder sizes</key>
-	<string>Özel Klasör Boyutları</string>
-	<key>Dark background</key>
-	<string>Koyu Arkaplan</string>
-	<key>Donations much appreciated</key>
-	<string>Desteğin için Teşekkürler!</string>
+	<string>Klasör simgeleri için özel renk ve özel kenarlık rengi ve kalınlığı seçin.Temanızın bir parçası olarak bir klasör simgesine sahipseniz görmek için Tema ikonları desteği'ni açın. Kenarlık hala işe yarayacak, ancak tema görüntüsünü orijinal olarak simge şeklinde bırakacaktır. Ayrıca,bunu tema araçları ile uyumlu hale getirir.</string>
+
+<key>Enable BG image:</key>
+<string>Arkaplan resmini aktifleştir</string>
+	<key>Enable custom blur color</key>
+	<string>Özel blur efekti rengini aktifleştir</string>
 	<key>Enable custom insets</key>
-	<string>Özel ekleri etkinleştir</string>
+	<string>İkonlar arası boşluk ayarını aktifleştir</string>
 	<key>Enable gradient blend</key>
 	<string>Degrade karışımını etkinleştir</string>
 	<key>Enable opacity slider:</key>
@@ -78,78 +87,98 @@
 	<string>Düz renkleri etkinleştir</string>
 	<key>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</key>
 	<string>Açık ve kapalı klasörlerin köşe yarıçapını değiştirmeyi etkinleştir.Respring gerektirir.</string>
+<key>Enable to change opacity of closed folders, how they appear as icons. For iOS 13 currently this hides the background of folders when enabled. For lower iOS versions:  If corner radius is set higher then standard folder (around 10.0) the corners of it will show unless you turn the opacity down.</key>
+<string>Kapalı klasörlerin opaklığını, simge olarak nasıl görüneceğini değiştirmek için etkinleştirin.IOS 13 için şu anda bu etkinleştirildiğinde klasörlerin arka planını gizler.Daha düşük iOS sürümleri için: Köşe yarıçapı standart klasörden (yaklaşık 10.0) daha yüksek olarak ayarlanırsa, opaklığı azaltmazsanız.</string>
 	<key>Enable to change opacity of closed folders, how they appear as icons. If corner radius is set higher then standard folder (around 10.0) the corners of it will show unless you turn the opacity down. *Respring needed to take affect for most icon changes.</key>
-	<string>Kapalı klasörlerin opaklığını, nasıl simge olarak göründüklerini değiştirmeyi etkinleştirin. * Çoğu simge değişikliği için Respring gerektirir.</string>
+	<string>Kapalı klasörlerin opaklığını, simge olarak nasıl görüneceğini değiştirmek için etkinleştirin.Köşe yarıçapı normalden daha yüksek(10.0 civarı) olarak ayarlanırsa, opaklığı azaltmazsanız.Respring gerektirir.</string>
+<key>Enable to hide the background view of folder icons. This will hide the blur and theme images, if applied.</key>
+<string>Klasör simgelerinin arka plan görünümünü gizlemeyi etkinleştirin.Bu,uygulandığında bulanıklığı ve temanızı gizler.</string>
+
+<key>Enable to hide badges on the folder icons only. Inside the open folders and on regular icons they will still appear.</key>
+<string>Yalnızca klasör simgelerindeki bildirimleri gizlemeyi etkinleştirin.Açık klasörlerin içinde ve normal simgeler üzerinde görünmeye devam ederler.</string>
 	<key>Enable tweak</key>
-	<string>Tweak'i Aktifleştir</string>
+	<string>Tweak'i aktifleştir</string>
 	<key>Folder color or gradient1:</key>
-	<string>Klasör rengi veya gradyan1:</string>
+	<string>Klasör rengi ya da gradyan1:</string>
 	<key>Folder icon color</key>
-	<string>Klasör İkon Rengi</string>
+	<string>Klasör ikon rengi</string>
 	<key>FolderControllerXI</key>
-	<string>FolderControllerXII</string>
+	<string>FolderControllerXI</string>
 	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
-	<string>Tüm ücretsiz tweak'lerime erişim için; repomu ekle ve BigBoss'ta mevcut olan paketlerimi kontrol et .</string>
+	<string>Tüm ücretsiz tweak'lerime erişim için; repomu ekle ve BigBoss'ta mevcut olan paketlerimi kontrol et.</string>
 	<key>Free tweaks in BigBoss</key>
 	<string>BigBoss'taki Ücretsiz Tweakler</string>
 	<key>Full Page</key>
 	<string>Tam Sayfa</string>
 	<key>Full Width</key>
 	<string>Tam Genişlik</string>
-	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXII settings, and a list of installed packages that could be interfering.</key>
-	<string>Bug mı buldun 🐜? Çakışan tweak(ler) mi var? 🤔 Sonraki sayfadaki Teknik Destek'i ziyaret et. Yardım almanın en iyi yolu FolderControllerXII ayarlarınızı e-postayla gönderdiğinden ve müdahale edebilecek kurulu paketlerin bir listesini e-postayla göndermektir.</string>
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>Bug mı buldun 🐜? Çakışan tweak(ler) mi var? 🤔 Sonraki sayfadaki Teknik Destek'i ziyaret et. Yardım almanın en iyi yolu FolderControllerXIII ayarlarınızı e-postayla gönderdiğinden ve müdahale edebilecek kurulu paketlerin bir listesini e-postayla göndermektir.</string>
 	<key>Gradient color2:</key>
-	<string>Gradyan Renk2:</string>
+	<string>Gradyan renk2:</string>
 	<key>Gradient color3:</key>
-	<string>Gradyan Renk3:</string>
+	<string>Gradyan renk3:</string>
 	<key>Gradient style:</key>
-	<string>Gradyan Stili:</string>
+	<string>Gradyan stili </string>
+<key>Hide icon badges</key>
+<string>Bildirim rozetlerini gizle</string>
+
 	<key>Hide the minigrid</key>
 	<string>Minibar'ı gizle</string>
 	<key>Hide title when folder open</key>
 	<string>Klasör açıldığında başlığı gizle</string>
-	<key>IndieDevKB</key>
-	<string>IndieDevKB</string>
+	<key>IMAGE ALPHA</key>
+	<string>GÖRÜNTÜ SAYDAMLIĞI</string>
 	<key>Keep empty folders</key>
-	<string>Boş klasörü tut</string>
+	<string>Boş klasörleri tut</string>
 	<key>More improvements coming soon.</key>
-	<string>Yakında daha fazla geliştirme olacak.</string>
+	<string>Daha fazla geliştirme yakında.</string>
 	<key>Multi-Folder select</key>
 	<string>Birden fazla klasör seçimi</string>
 	<key>No background effects/blur</key>
-	<string>Arkaplan efekt/blur yok</string>
+	<string>Arkaplan efekti/blur yok</string>
 	<key>Normal</key>
 	<string>Normal</string>
 	<key>Open Folder Options</key>
-	<string>Açık Klasör Ayarları</string>
+	<string>Açık klasör ayarları</string>
 	<key>Open folder coloring</key>
-	<string>Açık Klasör Renklendirmesi</string>
+	<string>Açık klasör rengi </string>
 	<key>Open folder opacity</key>
-	<string>Açık Klasör Opaklığı</string>
+	<string>Açık klasör opaklığı </string>
 	<key>Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on/off)</key>
-	<string>Klasörlerin kapatılması için seçenekler. Dokun, herhangi bir yere dokunmanıza izin verir, kapatmak için çimdik işlevini kapatmak için klasörün dışındaki sıkıştırma hareketini kullanır. (Tutam açmak / kapatmak için saygı gerektirir)</string>
+	<string>Klasörlerin kapatılması için seçenekler. Dokun, herhangi bir yere dokunmanıza izin verir, kapatmak için çimdik işlevini kapatmak için klasörün dışındaki sıkıştırma hareketini kullanır. (3 parmak hareketi açmak/kapatmak için respring gerektirir)</string>
 	<key>Options to adjust appearance of title and the home screen blur/ background behind an open folder. No resprings needed. Open folder colors can be changed without needing respring as well.</key>
 	<string>Açık bir klasörün arkasındaki başlık ve ana ekran görüntü bulanıklığını / arkaplanını ayarlama seçenekleri.Respring gerektirmez. Açık klasör renkleri de respring olmadan değiştirilebilir.</string>
-	<key>Pinch to close</key>
+<key>Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better.</key>
+<string>Açık klasörlerin içine arka plan görüntüsü eklemek için kamera rulonuzdan istediğiniz resmi seçin.Degradelerle veya düz renk üst üste ile çalışır.Renkleri daha iyi görmek için saydamlığı azaltın.</string>
+<key>Pinch to close</key>
 	<string>Kapatmak için üç parmak hareketi</string>
 	<key>Random gradient styles</key>
 	<string>Rastgele gradyan stili</string>
+<key>Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image.</key>
+<string>Görüntünün üstündeki renkleri görmek için saydamlığı ayarlayın.Sıfır değeri görüntüyü gizler.</string>
+	<key>Set a custom color to go behind open folders. Use slider to adjust color alpha of open folder background blurs. (New beta feature)</key>
+	<string>Açık klasörlerin arkasına geçicek özel bir renk ayarlayın.Açık klasör arka plan bulanıklığının renk saydamlığını ayarlamak için kaydırıcıyı kullanın.(Yeni beta özelliği)</string>
 	<key>Set custom number of columns inside folder.</key>
 	<string>Klasör içindeki özel sütun sayısını ayarla.</string>
 	<key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
 	<string>Açık klasörlerdeki özel satır ve sütun sayısını ayarlayın. Hemen güncellenmeli, ancak değişiklik yaptıktan sonra respring yapmak iyi bir fikirdir.</string>
-	<key>Settings improved by:</key>
+<key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
+<string>Özel klasör boyutları, arka plan renkleri ve degradeler, açık klasörlerin arkasındaki özel bulanıklaştırma ayarları ve daha fazlası.</string>
+	<key>Settings for how to close folders, as well as folder icon settings.</key>
+	<string>Klasörlerin nasıl kapatılacağına ilişkin ayarlar ve klasör simgesi ayarları.</string>
+        <key>Settings improved by:</key>
 	<string>Ayarlar geliştirildi:</string>
 	<key>Show status bar</key>
-	<string>Status Bar'ı göster</string>
+	<string>StatusBar'ı göster</string>
 	<key>Support theme images</key>
-	<string>Tema ikonlarına destek</string>
+	<string>Tema ikonları için destek</string>
 	<key>Tap to close</key>
 	<string>Kapatmak için dokun</string>
 	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 12.</key>
-	<string>Satın aldığınız için teşekkür ederiz. Tweak'i geliştirmeye devam edeceğim ve iOS 12 için destek sağlamaya devam edeceğim için herhangi bir ek bağışlar büyük beğeni topluyor.</string>
+	<string>Satın aldığınız için teşekkür ederiz.Tweak'i geliştirmeye ve iOS 13 için destek sağlamaya devam edeceğim için, ek bağışlar için çok teşekkürler.</string>
 	<key>Turns on the tweak. Turn off to reset all changes to original values.</key>
-	<string>Tweak'i açar. Tüm değişiklikleri orijinal değerlerine sıfırlamak için kapatın.</string>
+	<string>Tweak'i açar.Tüm değişiklikleri orijinal değerlerine sıfırlamak için kapatın.</string>
 	<key>Tweak created by:</key>
 	<string>Tweak'i Geliştiren:</string>
 	<key>Vary gradient styles</key>

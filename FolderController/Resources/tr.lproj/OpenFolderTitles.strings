@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+<string>Simgelerdeki bazı değişiklikler dışında neredeyse tüm ayarlar anında güncellenir.  Ancak, düzenleri değiştirdikten sonra IconState ile uyumlu hale gelmesi için respring iyi bir fikirdir.</string>
+
+<key>Anything larger then zero enables the title background border.</key>
+<string>Sıfırdan büyük her değer başlığın arka plan kenarlığını etkinleştirir.</string>
+
+<key>Apply changes</key>
+<string>Değişiklikleri uygula (respring)</string>
+<key>Border thickness:</key>
+<string>Kenarlık kalınlığı:</string>
+
+<key>Centered</key>
+<string>Ortalanmış</string>
+
+<key>Choose a segment cell to have open folder titles aligned to the left, the right, or centered (the default).</key>
+<string>Açık klasör başlıklarının sola, sağa veya ortaya(varsayılan) hizalanması için bir hücreyi seçin.</string>
+
+<key>Corner radius</key>
+<string>Köşe yarıçapı</string>
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Açık klasörler için ve ikonları için köşe yarıçapı (ana ekrandaki kapanmış klasörler)</string>
+<key>Credits and Support</key>
+<string>Hakkında ve Destek</string>
+<key>Custom animation delay</key>
+<string>Özel animasyon gecikmesi</string>
+
+<key>Customize folder titles</key>
+<string>Klasör başlıklarını düzenleme</string>
+
+<key>CUSTOM FOLDER TITLE OFFSETS</key>
+<string>KLASÖR BAŞLIĞI ÖZEL YERLEŞİMİ</string>
+
+<key>CUSTOM FOLDER TITLE SIZE</key>
+<string>KLASÖR BAŞLIĞI ÖZEL BOYUTU</string>
+
+<key>CUSTOMIZE THE TITLES</key>
+<string>BAŞLIKLARI ÖZELLEŞTİR</string>
+
+<key>Custom corner radiuses</key>
+<string>Özel köşe yarıçapları</string>
+
+<key>Custom set the background and border colors for open folder titles. Both have working alpha for translucent colors.</key>
+<string>Açık klasör başlıkları için özel arka plan ve kenarlık renklerini ayarlar.  Her ikisinde de yarı saydam renkler için çalışan saydamlık ayarı vardır.</string>
+
+<key>Custom set the title color for open folders.</key>
+<string>Açık klasörler için özel başlık rengi.</string>
+
+<key>Custom set the title font size of open folders. If the value is too big or small it may resize to a more appropriate size.</key>
+<string>Açık klasörlerin başlık yazı tipi boyutunu ayarlar.  Değer çok büyük veya küçükse, daha uygun bir boyuta yeniden boyutlandırılabilir.</string>
+
+
+
+<key>Custom title alignment</key>
+<string>Başlık hizalama</string>
+
+<key>Custom title offsets</key>
+<string>Başlık özel yükseklik ayarı</string>
+
+<key>Enable background color</key>
+<string>Arkaplan rengini aktifleştir</string>
+
+<key>Enable to set a custom title size, change the alignment, and customize the background views of open folders.</key>
+<string>Özel bir başlık boyutu ayarlamayı, hizalamayı değiştirmeyi ve açık klasörlerin arka plan görünümlerini özelleştirmeyi etkinleştirin.</string>
+
+<key>FOLDER TITLE BACKGROUND</key>
+<string>KLASÖR BAŞLIĞININ ARKAPLANI</string>
+
+<key>FOLDER TITLE COLOR</key>
+<string>KLASÖR BAŞLIK RENGİ</string>
+
+<key>FOLDER TITLE CORNER RADIUS</key>
+<string>KLASÖR BAŞLIĞI KÖŞE YARIÇAPI</string>
+
+<key>Folder Titles</key>
+<string>Klasör Başlıkları</string>
+
+<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+<string>Bug mı buldun 🐜? Çakışan tweak(ler) mi var? 🤔 Sonraki sayfadaki Teknik Destek'i ziyaret et. Yardım almanın en iyi yolu FolderControllerXIII ayarlarınızı e-postayla gönderdiğinden ve müdahale edebilecek kurulu paketlerin bir listesini e-postayla göndermektir.</string>
+
+<key>LANDASCAPE VERTICLE OFFSET</key>
+<string>YATAY YÖNDE YÜKSEKLİK</string>
+
+<key>Left side</key>
+<string>Sol taraf</string>
+
+<key>More improvements coming soon.</key>
+<string>Daha fazla geliştirme yakında.</string>
+
+<key>PORTRAIT VERTICLE OFFSET</key>
+<string>DİKEY YÖNDE YÜKSEKLİK</string>
+
+<key>Right side</key>
+<string>Sağ taraf</string>
+
+<key>Set the title offset for landscape orientation.</key>
+<string>Yatay yön için başlık yüksekliğini ayarlayın.</string>
+
+<key>Set the title offset for when in portrait orientation.</key>
+<string>Dikey yönde olduğunda başlık yüksekliğini ayarlayın.</string>
+
+<key>Title background color:</key>
+<string>Başlık arkaplan rengi:</string>
+
+<key>Title border color:</key>
+<string>Başlığın kenarlık rengi:</string>
+
+<key>Title color:</key>
+<string>Başlık rengi:</string>
+
+<key>TITLE FONT SIZE</key>
+<string>BAŞLIK BOYUTU</string>
+
+<key>Title Options</key>
+<string>Başlık Ayarları</string>
+
+<key>Use bold font</key>
+<string>Kalın Metin</string>
+
+</dict>
+</plist>

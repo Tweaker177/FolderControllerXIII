@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>Almost all the settings update instantly except for some changes to icons and layouts. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>Simgeler ve düzenlerde yapılan bazı değişiklikler dışında neredeyse tüm ayarlar anında güncellenir.Respring,tüm değerlerin istediğiniz gibi ayarlandığından emin olur.</string>
+
+<key>Apply changes</key>
+	<string>Değişiklikleri uygula (respring)</string>
+
+
+
+	<key>Credits and Support</key>
+	<string>Hakkında ve Destek</string>
+
+<key>Custom icon scale for docks and floating docks.</key>
+<string>Dock ve FloatingDock için özel simge ölçeği.</string>
+
+<key>Custom icon scale for inside folders.</key>
+<string>Klasörlerin içi için özel simge ölçeği.</string>
+
+<key>Dock icon scale</key>
+<string>Dock ikon ölçeği</string>
+
+<key>Enable scale for Dock</key>
+<string>Dock için ölçeklendirmeyi aktifleştir</string>
+
+<key>Dock scale landscape</key>
+<string>Yatay yönde Dock ölçeklendirilmesi</string>
+
+<key>Dock scale portrait</key>
+<string>Dikey yönde dock ölçeklemdirilmesi</string>
+
+<key>Enable same scale for everywhere</key>
+<string>Ölçeklendirmeyi her yer için eşit tut</string>
+
+<key>Enable scale for folders</key>
+<string>Klasörler için ölçeklendirmeyi aç</string>
+
+<key>Enable to set custom icon scale on home screen.</key>
+<string>Ana ekranda simge ölçeklendirmeyi etkinleştirin.</string>
+
+<key>Folder icon scale</key>
+<string>Klasör ikon ölçeği</string>
+
+<key>Folder scale landscape</key>
+<string>Yatay yönde klasör ölçeği</string>
+
+<key>Folder scale portrait</key>
+<string>Dikey yönde klasör ölçeği</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>Bug mı buldun 🐜? Çakışan tweak(ler) mi var? 🤔 Sonraki sayfadaki Teknik Destek'i ziyaret et. Yardım almanın en iyi yolu FolderControllerXIII ayarlarınızı e-postayla gönderdiğinden ve müdahale edebilecek kurulu paketlerin bir listesini e-postayla göndermektir.</string>
+
+<key>Homescreen scale</key>
+<string>Ana ekran ölçeği</string>
+
+<key>Homescreen scale landscape</key>
+<string>Yatay modda ana ekran ölçeği</string>
+
+<key>Homescreen scale portrait</key>
+<string>Dikey modda ana ekran ölçeği</string>
+
+
+
+	<key>More improvements coming soon.</key>
+	<string>Daha fazla geliştirme yakında.</string>
+
+<key>Options for custom icon scale for the home screen, the dock, inside folders, or make everywhere the same scale.</key>
+<string>Ana ekran, dock, klasörlerin içi veya her yerde aynı ölçeği ayarlamak için seçenekler.</string>
+
+<key>Same Scale Everywhere</key>
+<string>Her yerde aynı ölçek</string>
+
+<key>Set custom icon scale for folders in Landscape orientation.</key>
+<string>Yatay yönde klasörler için simge ölçeğini ayarlayın</string>
+
+<key>Set custom icon scale for the home screen in Landscape orientation.</key>
+<string>Yatay yönde ana ekrandaki simgelerin ölçeğini ayarlayın</string>
+
+<key>Set custom icon scale for icons in dock in Landscape orientation.</key>
+<string>Yatay yönde Dock'taki ikonların ölçeğini ayarlayın</string>
+
+<key>Set custom icon scale for icons in the dock while in Portrait orientation.</key>
+<string>Dikey yönde Dock'taki simgeler için ölçeklendirmeyi ayarlayın</string>
+
+<key>Set custom icon scale for the home screen in Portrait orientation.</key>
+<string>Dikey yönde ana ekran için simge ölçeğini ayarlayın.</string>
+
+<key>Set custom icon scale for inside folders in Portrait orientation.</key>
+<string>Dikey yönde klasörlerin içi için simge ölçeği ayarlayın.</string>
+
+</dict>
+</plist>

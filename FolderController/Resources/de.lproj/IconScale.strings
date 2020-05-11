@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>Almost all the settings update instantly except for some changes to icons and layouts. Apply changes will respring your device, and ensure all values are set as desired.</key>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme einiger Änderungen an Symbolen und Layouts. Durch Anwenden von Änderungen wird Ihr Gerät erneut gestartet, und es wird sichergestellt, dass alle Werte wie gewünscht eingestellt sind.</string>
+
+<key>Apply changes</key>
+	<string>Änderungen übernehmen (respring)</string>
+
+
+
+	<key>Credits and Support</key>
+	<string>Credits und Unterstützung</string>
+
+<key>Custom icon scale for docks and floating docks.</key>
+<string>Benutzerdefinierte Symbolskala für Docks und Schwimmdocks.</string>
+
+<key>Custom icon scale for inside folders.</key>
+<string>Benutzerdefinierte Symbolskala für geöffnete Ordner.</string>
+
+<key>Dock icon scale</key>
+<string>Dock-Symbolskala(BETA)</string>
+
+<key>Enable scale for Dock</key>
+<string>Aktivieren Sie die Skalierung für das Dock</string>
+
+<key>Dock scale landscape</key>
+<string>Dock Scale Landschaft</string>
+
+<key>Dock scale portrait</key>
+<string>Ausrichtung der Dock-Waage im Hochformat</string>
+
+<key>Enable same scale for everywhere</key>
+<string>Aktivieren Sie überall dieselbe Skalierung</string>
+
+<key>Enable scale for folders</key>
+<string>Aktivieren Sie die Skalierung für Ordner</string>
+
+<key>Enable to set custom icon scale on home screen. THIS OPTION AND THE OTHERS BELOW ARE BETA FEATURES. They mostly work but some reset to default values, then go back to custom values.</key>
+<string>Aktivieren Sie diese Option, um die benutzerdefinierte Symbolskalierung auf dem Startbildschirm festzulegen. DIESE OPTION UND DIE ANDEREN UNTEN SIND BETA-FUNKTIONEN. Sie funktionieren meistens, aber einige werden auf Standardwerte zurückgesetzt und kehren dann zu benutzerdefinierten Werten zurück.</string>
+
+<key>Folder icon scale</key>
+<string>Ordnersymbolskala</string>
+
+<key>Folder scale landscape</key>
+<string>Ordner-Skalierungslandschaft</string>
+
+<key>Folder scale portrait</key>
+<string>Vertikale Ausrichtung der Ordnerskala</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>Probleme haben? Widersprüchliche Optimierung (en)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+
+<key>Homescreen scale</key>
+<string>Homescreen-Skala</string>
+
+
+<key>Homescreen scale landscape</key>
+<string>Homescreen-Maßstab Landschaftsorientierung</string>
+
+<key>Homescreen scale portrait</key>
+<string>Porträtausrichtung im Homescreen-Maßstab</string>
+
+
+
+	<key>More improvements coming soon.</key>
+	<string>Weitere Verbesserungen folgen in Kürze.</string>
+
+<key>Options for custom icon scale for the home screen, the dock, inside folders, or make everywhere the same scale.</key>
+<string>Optionen für die benutzerdefinierte Skalierung von Symbolen für den Startbildschirm, das Dock, in Ordnern oder überall die gleiche Skalierung.</string>
+
+<key>Same Scale Everywhere</key>
+<string>Überall gleich groß</string>
+
+<key>Set custom icon scale for folders in Landscape orientation.</key>
+<string>Legen Sie die benutzerdefinierte Symbolskalierung für Ordner in Querformat fest.</string>
+
+<key>Set custom icon scale for the home screen in Landscape orientation.</key>
+<string>Legen Sie die benutzerdefinierte Symbolskala für den Startbildschirm in Querformat fest.</string>
+
+<key>Set custom icon scale for icons in dock in Landscape orientation.</key>
+<string>Legen Sie die benutzerdefinierte Symbolskala für Symbole im Dock in Querformat fest.</string>
+
+<key>Set custom icon scale for icons in the dock while in Portrait orientation.</key>
+<string>Legen Sie die benutzerdefinierte Symbolskala für Symbole im Dock fest, während Sie sich im Hochformat befinden.</string>
+
+<key>Set custom icon scale for the home screen in Portrait orientation.</key>
+<string>Legen Sie die benutzerdefinierte Symbolskala für den Startbildschirm in Porträtausrichtung fest.</string>
+
+<key>Set custom icon scale for inside folders in Portrait orientation.</key>
+<string>Legen Sie die benutzerdefinierte Symbolskala für Innenordner in Hochformat fest.</string>
+
+</dict>
+</plist>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme einiger Änderungen an den Symbolen. Es ist jedoch eine gute Idee, nach dem Ändern des Layouts einen Respring durchzuführen, damit er mit IconState festgelegt wird.</string>
+
+<key>Anything larger then zero enables the title background border.</key>
+<string>Alles, was größer als Null ist, aktiviert den Titelhintergrundrand.</string>
+
+<key>Apply changes</key>
+	<string>Änderungen übernehmen</string>
+<key>Border thickness:</key>
+<string>Randdicke:</string>
+
+<key>Centered</key>
+<string>Zentriert</string>
+
+<key>Choose a segment cell to have open folder titles aligned to the left, the right, or centered (the default).</key>
+<string>Wählen Sie eine Segmentzelle aus, um geöffnete Ordnertitel nach links, rechts oder in der Mitte auszurichten (Standardeinstellung).</string>
+
+<key>Corner radius</key>
+	<string>Eckenradius</string>
+
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Einstellungen für den Eckenradius für geöffnete Ordner und deren Symbole (geschlossene Ordner auf dem Startbildschirm).</string>
+
+	<key>Credits and Support</key>
+	<string>Credits und Support</string>
+
+<key>Custom animation delay</key>
+<string>Animationsverzögerung</string>
+
+<key>Customize folder titles</key>
+<string>Passen Sie Ordnertitel an</string>
+
+<key>CUSTOM FOLDER TITLE SIZE</key>
+<string>BENUTZERDEFINIERTE ORDNER-TITELGRÖSSE</string>
+
+
+	<key>Custom corner radiuses</key>
+	<string>Benutzerdefinierte Eckenradien</string>
+
+<key>Custom set the background and border colors for open folder titles. Both have working alpha for translucent colors.</key>
+<string>Benutzerdefiniert Legen Sie die Hintergrund- und Rahmenfarben für geöffnete Ordnertitel fest. Beide haben Alpha für durchscheinende Farben.</string>
+
+<key>Custom set the title color for open folders.</key>
+<string>Benutzerdefiniert Legen Sie die Titelfarbe für geöffnete Ordner fest</string>
+
+<key>Custom set the title font size of open folders. If the value is too big or small it may resize to a more appropriate size.</key>
+<string>Benutzerdefiniert Legen Sie die Titelschriftgröße für geöffnete Ordner fest. Wenn der Wert zu groß oder zu klein ist, kann die Größe auf eine geeignetere Größe geändert werden.</string>
+
+
+
+<key>Custom title alignment</key>
+<string>Benutzerdefinierte Titelplatzierung</string>
+
+<key>Enable background color</key>
+<string>Hintergrundfarbe aktivieren</string>
+
+<key>Enable to set a custom title size, change the alignment, and customize the background views of open folders.</key>
+<string>Benutzerdefinierte Titelausrichtung</string>
+
+<key>FOLDER TITLE BACKGROUND</key>
+<string>ORDNERHINTERGRUND</string>
+
+<key>FOLDER TITLE COLOR</key>
+<string>ORDNER TITEL FARBE</string>
+
+<key>FOLDER TITLE CORNER RADIUS</key>
+<string>ORDNER ECKE RADIUS</string>
+
+<key>Folder Titles</key>
+<string>Ordnertitel</string>
+
+
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>Hast du Fehler 🐜? Widersprüchliche Optimierung (en)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+
+<key>Left side</key>
+<string>Linke Seite</string>
+
+	<key>More improvements coming soon.</key>
+	<string>Weitere Verbesserungen folgen in Kürze.</string>
+
+<key>PORTRAIT VERTICLE OFFSET</key>
+<string>VERTIKALER OFFSET FÜR DIE PORTRAITORIENTIERUNG</string>
+
+<key>Right side</key>
+<string>Rechte Seite</string>
+
+<key>Title background color:</key>
+<string>Titelhintergrundfarbe:</string>
+
+<key>Title border color:</key>
+<string>Titelrandfarbe:</string>
+
+<key>Title color:</key>
+<string>Titelfarbe:</string>
+
+<key>TITLE FONT SIZE</key>
+<string>Schriftgröße</string>
+
+<key>Title Options</key>
+<string>Titeloptionen</string>
+
+<key>Use bold font</key>
+<string>Verwenden Sie fette Schrift</string>
+
+</dict>
+</plist>

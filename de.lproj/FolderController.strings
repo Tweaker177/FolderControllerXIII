@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Add a BG image-No Respring needed</key>
+<string>Hintergrundbild hinzufügen (Kein Respring nötig)</string>
+
+<key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
+	<string>Ermöglicht die Verwendung von Ordnern als Teil der Auswahl mehrerer Symbole, um den Startbildschirm schneller neu anzuordnen. Ziehen Sie im Bearbeitungsmodus ein Symbol und halten Sie es gedrückt. Tippen Sie dann zur Mehrfachauswahl auf andere.</string>
+<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme von Änderungen an Ordnerbildern und der Ordnergröße. Änderungen übernehmen lädt SpringBoard neu und stellt sicher, dass alle Werte wie gewünscht eingestellt sind.</string>
+
+	<key>Apply changes</key>
+	<string>Änderungen übernehmen(respring)</string>
+<key>Choose background image</key>
+<string>Wählen Sie ein Hintergrundbild</string>
+
+<key>Closed folders</key>
+<string>Geschlossene Ordner</string>
+	<key>Closing folders</key>
+	<string>Ordner schließen</string>
+
+<key>CORNER RADIUS AND ANIMATIONS</key>
+<string>ECKENRADIUS UND ANIMATIONEN</string>
+
+<key>Corner radius</key>
+	<string>Eckenradius</string>
+<key>Corner radius settings for open and closed folders (their icons), as well as animation settings.</key>
+<string>Eckenradiuseinstellungen für geöffnete und geschlossene Ordner (deren Symbole) sowie Animationseinstellungen.</string>
+
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Eckenradiuseinstellungen für geöffnete Ordner und deren Symbole (geschlossene Ordner auf dem Startbildschirm).</string>
+	<key>Credits and Support</key>
+	<string>Credits und technischer Support</string>
+	<key>Custom corner radiuses</key>
+	<string>Benutzerdefinierte Eckenradien</string>
+	<key>Custom folder layouts</key>
+	<string>Benutzerdefinierte Ordnerlayouts</string>
+
+<key>CUSTOM ICON SCALE</key>
+<string>BENUTZERDEFINIERTE ICON-Dimensionierung</string>
+
+<key>CUSTOM LAYOUTS AND INSETS</key>
+<string>BENUTZERDEFINIERTE LAYOUTS UND ABSTAND VON KANTEN</string>
+	<key>Custom layouts</key>
+<string>Benutzerdefinierte Layouts</string>
+
+
+<key>Enable BG image:</key>
+<string>Hintergrundbild aktivieren:</string>
+
+	<key>Enable tweak</key>
+	<string>Tweak aktivieren</string>
+
+
+	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
+	<string>Um auf alle meine kostenlosen Tweaks zuzugreifen; Füge mein Repo hinzu und überprüfe die in BigBoss und Packix verfügbaren Pakete..</string>
+	<key>Free tweaks in BigBoss</key>
+	<string>Kostenlose Optimierungen in BigBoss</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+	<string>Hast du Fehler? Konflikt Optimierung durch andere Tweaks? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+
+<key>Icon Scaling</key>
+<string>Symbolskala</string>
+
+<key>IMAGE ALPHA</key>
+	<string>ALPHA DES BILDES</string>
+
+	<key>More improvements coming soon.</key>
+	<string>Weitere Verbesserungen folgen in Kürze.</string>
+
+	<key>Multi-Folder select</key>
+	<string>Auswahl von Symbolen für mehrere Ordner</string>
+
+	<key>Open Folder Options</key>
+	<string>Öffnen Sie Ordneroptionen</string>
+
+
+<key>Open folders</key>
+<string>Ordner öffnen</string>
+
+<key>Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better.</key>
+<string>Wählen Sie ein beliebiges Bild aus Ihrer Kamera aus, um es in geöffneten Ordnern als Hintergrundbild hinzuzufügen. Arbeitet mit Verläufen oder einzelnen Farben. Reduzieren Sie einfach das Alpha, um die Farben besser zu sehen.</string>
+
+<key>Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image.</key>
+<string>Stellen Sie eine benutzerdefinierte Alpha-Stufe ein, um die Farben über dem Bild zu sehen. Eins ist die volle Stärke und Null wird das Bild verbergen.</string>
+
+<key>Settings for custom icon scale in the dock, folders and the homescreen.</key>
+<string>Einstellungen für die benutzerdefinierte Symbolskalierung im Dock, in den Ordnern und auf dem Startbildschirm.</string>
+
+
+<key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
+<string>Einstellungen für benutzerdefinierte Ordnergrößen, Hintergrundfarben und -Verläufe, benutzerdefinierte Unschärfen hinter geöffneten Ordnern und mehr.</string>
+
+<key>Settings for how to close folders, as well as folder icon settings.</key>
+	<string>Einstellungen zum Schließen von Ordnern sowie Einstellungen für Ordnersymbole.</string>
+
+
+
+	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
+	<string>Vielen Dank für Ihre Kauf. Weitere Spenden sind sehr willkommen, da ich die Optimierung weiter verbessern und Unterstützung für iOS 13 bieten werde</string>
+
+<key>Thanks for your support!</key>
+<string>Danke für Ihre Unterstützung</string>
+
+	<key>Turns on the tweak. Turn off to reset all changes to original values.</key>
+	<string>Schaltet den Tweak ein. Ausschalten, um alle Änderungen auf die ursprünglichen Werte zurückzusetzen.</string>
+
+	<key>👉 Add my repo</key>
+	<string>👉 Meine Repo hinzufügen</string>
+</dict>
+</plist>

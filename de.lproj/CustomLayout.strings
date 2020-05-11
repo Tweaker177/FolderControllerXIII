@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>Adjust slider to set custom max number of rows inside open folders.</key>
+	<string>Passen Sie den Schieberegler an, um die maximale Anzahl von Reihen in offenen Ordnern festzulegen.</string>
+
+<key>Adjust bottom homescreen inset in landscape mode, these values move the icons up from the bottom reducing the space in between rows.</key>
+<string>Passen Sie den unteren Homescreen-Abstand im Querformat an. Diese Werte verschieben die Symbole mit zunehmenden Werten von unten nach oben.</string>
+
+<key>Adjust bottom homescreen inset, these values move the icons up from the bottom reducing the space in between rows.</key>
+<string>Passen Sie den Abstand der Unterkante an. Diese Werte verschieben die Symbole von unten nach oben und verringern den Abstand zwischen den Zeilen.</string>
+
+<key>Adjusts bottom folder insets in portrait orientation. Moves icons up as value increases.</key>
+<string>Passt die unteren Kanteneinsätze des Ordners im Hochformat an. Verschiebt die Symbole mit zunehmendem Wert nach oben.</string>
+
+<key>Adjusts bottom folder insets in landscape orientation. Shifts icons up as value increases.</key>
+<string>Passt die unteren Kanteneinfügungen von Ordnern im Querformat an. Verschiebt die Symbole mit zunehmendem Wert nach oben.</string>
+
+<key>Adjusts left side insets of folders in landscape orientation. Shifts icons towards the right as value increases.</key>
+<string>Passt die linken Seiteneinfügungen von Ordnern im Querformat an. Verschiebt die Symbole mit zunehmendem Wert nach rechts.</string>
+
+<key>Adjusts right side insets of folders in landscape orientation. Shifts the icons towards the left as value increases.</key>
+<string>Passt die rechtsseitigen Einfügungen von Ordnern im Querformat an. Verschiebt die Symbole mit zunehmendem Wert nach links.</string>
+
+<key>Adjusts right side homescreen icon insets. These values shift the icons left.</key>
+<string>Passt die Einfügungen des rechten Homescreen-Symbols an. Diese Werte verschieben die Symbole nach links.</string>
+
+	<key>Adjusts side icon insets. Negative values reduce insets, positive make them bigger.</key>
+	<string>Passt die seitlichen Symboleinsätze an. Negative Werte reduzieren Einfügungen, positive machen sie größer.</string>
+
+	<key>Adjusts top insets of folders in portrait orientation. It moves the icons down as the values increases.</key>
+	<string>Passt die oberen Einfügungen von Ordnern im Hochformat an. Die Symbole werden mit zunehmenden Werten nach unten verschoben.</string>
+
+<key>Adjusts top homescreen inset. This slider moves icons down the screen.</key>
+<string>Passt die oberen Homescreen-Symbole an. Dieser Schieberegler bewegt Symbole auf dem Bildschirm nach unten.</string>
+
+<key>Adjusts top homescreen inset when device orientation is landscape. This slider moves icons down the screen.</key>
+<string>Passt den oberen Homescreen-Einschub an, wenn die Ausrichtung des Geräts im Querformat erfolgt. Dieser Schieberegler bewegt Symbole auf dem Bildschirm nach unten</string>
+
+<key>Allows use of sliders to tweak insets of open folders. (Relative to the edges and between apps)</key>
+	<string>Ermöglicht die Verwendung von Schiebereglern, um die Einfügungen geöffneter Ordner zu optimieren (Relativ zu den Kanten und zwischen Apps)</string>
+
+<key>Allows use of sliders to tweak the insets of your homescreen icon layout. This allows you to place them far apart or close together in boxes.  Turn off for iOS default values to be used.</key>
+<string>Ermöglicht die Verwendung von Schiebereglern, um die Einfügungen Ihres Homescreen-Symbollayouts zu optimieren. Auf diese Weise können Sie sie weit auseinander oder nahe beieinander in Kisten platzieren. Deaktivieren Sie diese Option, damit iOS-Standardwerte verwendet werden.</string>
+
+<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme von Änderungen an Ordnersymbolen und Änderungen in der Ordnergröße. Es ist jedoch eine gute Idee, SpringBoard nach dem Ändern des Layouts neu zu starten(Respring), damit es mit IconState festgelegt werden kann.</string>
+
+
+	<key>Apply changes</key>
+	<string>Änderungen übernehmen (respring)</string>
+	
+	<key>Credits and Support</key>
+	<string>Credits und technische Unterstützung</string>
+
+<key>Custom dock layout</key>
+<string>Benutzerdefiniertes Dock-Layout</string>
+
+<key>CUSTOM DOCK LAYOUTS</key>
+<string>Benutzerdefiniertes Dock-Layout</string>
+
+<key>Custom folder layouts</key>
+<string>Benutzerdefinierte Ordnerlayouts</string>
+
+<key>CUSTOM FOLDER LAYOUTS</key>
+<string>Benutzerdefinierte Ordnerlayouts</string>
+
+<key>CUSTOM HOMESCREEN</key>
+<string>Benutzerdefinierter HOME-BILDSCHIRM</string>
+
+<key>Custom layouts</key>
+<string>Benutzerdefinierte Layouts</string>
+
+<key>Custom Layouts</key>
+<string>Benutzerdefinierte Layouts</string>
+
+<key>Enable custom insets</key>
+<string>Aktivieren Sie benutzerdefinierte Einfügungen</string>
+
+<key>Enable homescreen insets</key>
+<string>Aktivieren Sie die Einfügungen des Startbildschirms</string>
+
+<key>Enable mini grid resizing so any layout will fit inside the folder icon, and custom layouts of the grid can be achieved.</key>
+<string>Aktivieren Sie die Größenänderung des Mini-Rasters, damit jedes Layout in das Ordnersymbol passt und benutzerdefinierte Layouts des Rasters erstellt werden können.</string>
+<key>Enable resized grids</key>
+<string>Aktivieren Sie die Größe der Raster</string>
+
+<key>FOLDER INSETS</key>
+<string>ORDNERRAUM VON DEN RÄNDERN</string>
+
+
+
+
+
+	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
+	<string>Für den Zugang zu all meinen kostenlosen Tweaks; fügen Sie mein Repo hinzu und checken Sie die in BigBoss verfügbaren Pakete aus.</string>
+	<key>Free tweaks in BigBoss</key>
+	<string>Kostenlose Tweaks in BigBoss</string>
+
+
+<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
+<string>Hast du Fehler ? Konflikt Optimierung mit durch andere Tweaks? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+
+<key>HOMESCREEN EDGE INSETS</key>
+<string>EINSÄTZE FÜR RÄNDER VON HOMESCREEN</string>
+
+<key>LANDSCAPE FOLDER INSETS</key>
+<string>QUERFORMAT ORDNER ABSTAND</string>
+
+
+<key>More improvements coming soon.</key>
+	<string>Weitere Verbesserungen folgen in Kürze.</string>
+
+<key>NEW- SET EXACT INSET VALUES.</key>
+<string>Stellen Sie den benutzerdefinierten Seitenabstand ein</string>
+
+<key>Often only one custom layout tweak may be used at a time.  This tweak, while designed to be compatible with others as much as possible, may conflict with other custom layout tweaks, or others may make this one not work.  If the tweak does not appear to be working, check for potential conflicts before assuming this tweak is broken.</key>
+
+<string>Häufig kann jeweils nur eine benutzerdefinierte Layoutoptimierung verwendet werden. Diese Optimierung ist zwar so konzipiert, dass sie so weit wie möglich mit anderen kompatibel ist, kann jedoch zu Konflikten mit anderen benutzerdefinierten Layout-Optimierungen führen, oder andere können dazu führen, dass diese nicht funktioniert. Wenn die Optimierung nicht funktioniert, prüfen Sie, ob mögliche Konflikte vorliegen, bevor Sie davon ausgehen, dass die Optimierung fehlerhaft ist.</string>
+
+<key>Resize mini-grids</key>
+<string>Ändern Sie die Größe von Mini-Grids</string>
+
+<key>Set custom number of columns inside folder.</key>
+<string>Legen Sie die benutzerdefinierte Anzahl der Spalten im Ordner fest.</string>
+
+<key>Set custom number of home screen columns in Portrait orientation.</key>
+<string>Legen Sie die benutzerdefinierte Anzahl der Spalten für den Startbildschirm des Porträts fest.</string>
+
+<key>Set custom number of max icons in Dock. Should update immediately, if not hit "Apply changes".</key>
+<string>Legen Sie die benutzerdefinierte Anzahl der maximalen Symbole im Dock fest. Sollte sofort aktualisiert werden, andernfalls sollte auf "Änderungen übernehmen" geklickt werden.</string>
+
+<key>Set custom maximum number of icons in the dock.</key>
+<string>Legen Sie die benutzerdefinierte maximale Anzahl von Symbolen im Dock fest.</string>
+
+
+<key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
+<string>Festlegen der benutzerdefinierten Anzahl von Zeilen und Spalten in offenen Ordnern. Betrifft alle Ordner. Sollte sofort aktualisiert werden, falls nicht auf "Änderungen übernehmen" klicken.</string>
+
+<key>Set custom number of rows displayed on the home screen in Portrait orientation.</key>
+<string>Legen Sie die benutzerdefinierte Anzahl der Zeilen fest, die im Hochformat auf dem Startbildschirm angezeigt werden.</string>
+
+
+<key>SET LANDSCAPE INSET VALUES.</key>
+<string>Abstandseinfügungen im Querformat</string>
+
+<key>SET PORTRAIT INSET VALUES.</key>
+<string>PORTRAIT-EINSÄTZE EINSTELLEN</string>
+
+</dict>
+</plist>

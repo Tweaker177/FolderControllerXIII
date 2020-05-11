@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adjust closed folders (folder icons) corner radius from 0 being squared and 28-30 being circular.</key>
+	<string>Stellen Sie den Eckenradius von geschlossenen Ordnern (Ordnersymbolen) von 0 zum Quadrat und 28-30 zum Kreis ein.</string>
+
+
+<key>Adjust corner radius for open folder backgrounds.</key>
+	<string>Passen Sie den Eckenradius für Hintergründe für offene Ordner an.</string>
+
+<key>Adjust corner radius of all application icons from 0 being square and 28-30 being circular.</key>
+<string>Stellen Sie den Eckenradius aller Anwendungssymbole so ein, dass 0 quadratisch und 28-30 kreisförmig ist.</string>
+
+
+
+
+<key>Adjusts animation speed to open and close folders. 0 is fastest, 1 is really slow.</key>
+<string>Passt die Animationsgeschwindigkeit an, um Ordner zu öffnen und zu schließen. 0 ist am schnellsten, 1 ist sehr langsam.</string>
+
+
+
+
+
+<key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme einiger Änderungen an den Symbolen. Es ist jedoch eine gute Idee, nach dem Ändern von Layouts einen Respring durchzuführen, damit dieser mit IconState festgelegt wird.</string>
+
+
+
+	<key>Apply changes</key>
+	<string>Änderungen übernehmen (respring)</string>
+<key>App icons corner radius</key>
+<string>Eckenradius der App-Symbole</string>
+
+
+<key>Corner radius</key>
+<string>Eckenradius</string>
+<key>Corner radius settings for open folders and their icons (closed folders on homescreen).</key>
+<string>Einstellungen für den Eckenradius für geöffnete Ordner und deren Symbole (geschlossene Ordner auf dem Startbildschirm).</string>
+
+	<key>Credits and Support</key>
+	<string>Credits und technische Unterstützung</string>
+<key>Custom animation delay</key>
+<string>Benutzerdefinierte Animationsverzögerung</string>
+
+<key>CUSTOM ANIMATIONS</key>
+<string>BENUTZERDEFINIERTE ANIMATIONEN</string>
+
+	<key>Custom corner radiuses</key>
+	<string>Benutzerdefinierte Eckenradius</string>
+
+<key>Donations much appreciated</key>
+	<string>Danke für deine Unterstützung!</string>
+
+<key>Enable to change corner radius of all homescreen application icons.</key>
+<string>Aktivieren Sie diese Option, um den Eckenradius aller Homescreen-Anwendungssymbole zu ändern.</string>
+
+	<key>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</key>
+	<string>Aktivieren Sie diese Option, um den Eckenradius von offenen und geschlossenen Ordnern zu ändern. Resring musste für Ordnersymbole wirksam werden.</string>
+
+
+	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
+	<string>Für den Zugang zu All meinen kostenlosen Tweaks; fügen Sie mein Repo hinzu und checken Sie die in BigBoss verfügbaren Pakete aus.</string>
+	<key>Free tweaks in BigBoss</key>
+	<string>Kostenlose Tweaks in BigBoss</string>
+
+	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXII settings, and a list of installed packages that could be interfering.</key>
+	<string>Hast du Fehler ? Widersprüchliche Optimierung eventueller conflict mit anderem Tweak? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+
+	<key>More improvements coming soon.</key>
+	<string>Weitere Verbesserungen folgen in Kürze.</string>
+
+
+<key>SKIP ANIMATIONS</key>
+<string>ANIMATIONEN ÜBERSPRINGEN</string>
+<key>Skip animations</key>
+<string>Animationen überspringen</string>
+
+	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
+	<string>Danke für Ihren Einkauf. Zusätzliche Spenden werden sehr geschätzt, da ich die Optimierung weiter verbessern und Unterstützung für iOS 13 bieten werde.</string>
+
+<key>Turn on to enable custom animation speeds when opening and closing folders.</key>
+<string>Aktivieren Sie diese Option, um benutzerdefinierte Animationsgeschwindigkeiten beim Öffnen und Schließen von Ordnern zu aktivieren.</string>
+
+<key>Turn on to speed up opening and closing folders so it appears to skip the animations entirely.</key>
+<string>Aktivieren Sie diese Option, um das Öffnen und Schließen von Ordnern zu beschleunigen, sodass die Animationen  vollständig übersprungen werden.</string>
+
+	
+	<key>Tweak created by:</key>
+	<string>Tweak erstellt von:</string>
+	
+	<key>i0s_tweak3r</key>
+	<string>i0s_tweak3r</string>
+	<key>👉 Add my repo</key>
+	<string>👉 Füge mein Repo hinzu</string>
+</dict>
+</plist>

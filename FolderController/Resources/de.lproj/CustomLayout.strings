@@ -34,7 +34,7 @@
 	<string>Passt die oberen Einfügungen von Ordnern im Hochformat an. Die Symbole werden mit zunehmenden Werten nach unten verschoben.</string>
 
 <key>Adjusts top homescreen inset. This slider moves icons down the screen.</key>
-<string>Passt den oberen Homescreen-Einsatz an. Dieser Schieberegler bewegt Symbole auf dem Bildschirm nach unten.</string>
+<string>Passt die oberen Homescreen-Symbole an. Dieser Schieberegler bewegt Symbole auf dem Bildschirm nach unten.</string>
 
 <key>Adjusts top homescreen inset when device orientation is landscape. This slider moves icons down the screen.</key>
 <string>Passt den oberen Homescreen-Einschub an, wenn die Ausrichtung des Geräts im Querformat erfolgt. Dieser Schieberegler bewegt Symbole auf dem Bildschirm nach unten</string>
@@ -46,7 +46,7 @@
 <string>Ermöglicht die Verwendung von Schiebereglern, um die Einfügungen Ihres Homescreen-Symbollayouts zu optimieren. Auf diese Weise können Sie sie weit auseinander oder nahe beieinander in Kisten platzieren. Deaktivieren Sie diese Option, damit iOS-Standardwerte verwendet werden.</string>
 
 <key>Almost all the settings update instantly except for some changes to icons. It is a good idea to respring after changing layouts though so it sets with IconState.</key>
-<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme von Änderungen an Ordnersymbolen und Änderungen in der Ordnergröße. Es ist jedoch eine gute Idee, SpringBoard nach dem Ändern des Layouts neu zu starten, damit es mit IconState festgelegt werden kann.</string>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme von Änderungen an Ordnersymbolen und Änderungen in der Ordnergröße. Es ist jedoch eine gute Idee, SpringBoard nach dem Ändern des Layouts neu zu starten(Respring), damit es mit IconState festgelegt werden kann.</string>
 
 
 	<key>Apply changes</key>
@@ -68,7 +68,7 @@
 <string>Benutzerdefinierte Ordnerlayouts</string>
 
 <key>CUSTOM HOMESCREEN</key>
-<string>CUSTOM-HOME-BILDSCHIRM</string>
+<string>Benutzerdefinierter HOME-BILDSCHIRM</string>
 
 <key>Custom layouts</key>
 <string>Benutzerdefinierte Layouts</string>
@@ -101,13 +101,13 @@
 
 
 <key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
-<string>Bekam Bugs 🐜? Konflikt zwischen Tweak(s)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Sie Ihre FolderControllerXII-Einstellungen per E-Mail sowie eine Liste der installierten Pakete erhalten, die stören könnten.</string>
+<string>Hast du Fehler ? Konflikt Optimierung mit durch andere Tweaks? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
 
 <key>HOMESCREEN EDGE INSETS</key>
 <string>EINSÄTZE FÜR RÄNDER VON HOMESCREEN</string>
 
 <key>LANDSCAPE FOLDER INSETS</key>
-<string>LANDSCHAFT ORDNER ABSTAND</string>
+<string>QUERFORMAT ORDNER ABSTAND</string>
 
 
 <key>More improvements coming soon.</key>
@@ -137,7 +137,7 @@
 
 
 <key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
-<string>Festlegen der benutzerdefinierten Anzahl von Zeilen und Spalten in offenen Ordnern. Betrifft alle Ordner. Sollte sofort aktualisiert werden, falls nicht auf "Änderungen übernehmen" geklickt.</string>
+<string>Festlegen der benutzerdefinierten Anzahl von Zeilen und Spalten in offenen Ordnern. Betrifft alle Ordner. Sollte sofort aktualisiert werden, falls nicht auf "Änderungen übernehmen" klicken.</string>
 
 <key>Set custom number of rows displayed on the home screen in Portrait orientation.</key>
 <string>Legen Sie die benutzerdefinierte Anzahl der Zeilen fest, die im Hochformat auf dem Startbildschirm angezeigt werden.</string>

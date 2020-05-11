@@ -47,7 +47,7 @@
 <string>BENUTZERDEFINIERTE ANIMATIONEN</string>
 
 	<key>Custom corner radiuses</key>
-	<string>Benutzerdefinierte Eckenradien</string>
+	<string>Benutzerdefinierte Eckenradius</string>
 
 <key>Donations much appreciated</key>
 	<string>Danke für deine Unterstützung!</string>
@@ -60,12 +60,12 @@
 
 
 	<key>For access to all my free tweaks; add my repo, and check out packages available in BigBoss .</key>
-	<string>Für den Zugang zu all meinen kostenlosen Tweaks; fügen Sie mein Repo hinzu und checken Sie die in BigBoss verfügbaren Pakete aus.</string>
+	<string>Für den Zugang zu All meinen kostenlosen Tweaks; fügen Sie mein Repo hinzu und checken Sie die in BigBoss verfügbaren Pakete aus.</string>
 	<key>Free tweaks in BigBoss</key>
 	<string>Kostenlose Tweaks in BigBoss</string>
 
 	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXII settings, and a list of installed packages that could be interfering.</key>
-	<string>Bekam Bugs 🐜? Konflikt zwischen Tweak(s)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Sie Ihre FolderControllerXII-Einstellungen per E-Mail sowie eine Liste der installierten Pakete erhalten, die stören könnten.</string>
+	<string>Hast du Fehler ? Widersprüchliche Optimierung eventueller conflict mit anderem Tweak? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
 
 	<key>More improvements coming soon.</key>
 	<string>Weitere Verbesserungen folgen in Kürze.</string>
@@ -83,7 +83,7 @@
 <string>Aktivieren Sie diese Option, um benutzerdefinierte Animationsgeschwindigkeiten beim Öffnen und Schließen von Ordnern zu aktivieren.</string>
 
 <key>Turn on to speed up opening and closing folders so it appears to skip the animations entirely.</key>
-<string>Aktivieren Sie diese Option, um das Öffnen und Schließen von Ordnern zu beschleunigen, sodass die Animationen anscheinend vollständig übersprungen werden.</string>
+<string>Aktivieren Sie diese Option, um das Öffnen und Schließen von Ordnern zu beschleunigen, sodass die Animationen  vollständig übersprungen werden.</string>
 
 	
 	<key>Tweak created by:</key>
@@ -92,6 +92,6 @@
 	<key>i0s_tweak3r</key>
 	<string>i0s_tweak3r</string>
 	<key>👉 Add my repo</key>
-	<string>👉 Add my repo</string>
+	<string>👉 Füge mein Repo hinzu</string>
 </dict>
 </plist>

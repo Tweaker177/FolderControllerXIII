@@ -7,7 +7,7 @@
 <string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme einiger Änderungen an den Symbolen. Es ist jedoch eine gute Idee, nach dem Ändern des Layouts einen Respring durchzuführen, damit er mit IconState festgelegt wird.</string>
 
 <key>Anything larger then zero enables the title background border.</key>
-<string>Alles, was größer als Null ist, aktiviert den Titelhintergrundrand.</string>
+<string>Alles, was größer als 0 ist, aktiviert den TitelHintergrundRand.</string>
 
 <key>Apply changes</key>
 	<string>Änderungen übernehmen</string>
@@ -27,7 +27,7 @@
 <string>Einstellungen für den Eckenradius für geöffnete Ordner und deren Symbole (geschlossene Ordner auf dem Startbildschirm).</string>
 
 	<key>Credits and Support</key>
-	<string>Credits und Support</string>
+	<string>Credits und Unterstützung</string>
 
 <key>Custom animation delay</key>
 <string>Animationsverzögerung</string>
@@ -40,16 +40,16 @@
 
 
 	<key>Custom corner radiuses</key>
-	<string>Benutzerdefinierte Eckenradien</string>
+	<string>Benutzerdefinierter Eckenradius</string>
 
 <key>Custom set the background and border colors for open folder titles. Both have working alpha for translucent colors.</key>
-<string>Benutzerdefiniert Legen Sie die Hintergrund- und Rahmenfarben für geöffnete Ordnertitel fest. Beide haben Alpha für durchscheinende Farben.</string>
+<string>Legen Sie die Benutzerdefinierte Hintergrund- und Rahmenfarben für geöffnete Ordnertitel fest. Beide haben Alpha für durchscheinende Farben.</string>
 
 <key>Custom set the title color for open folders.</key>
-<string>Benutzerdefiniert Legen Sie die Titelfarbe für geöffnete Ordner fest</string>
+<string>Legen Sie die Benutzerdefiniert Titelfarbe für geöffnete Ordner fest</string>
 
 <key>Custom set the title font size of open folders. If the value is too big or small it may resize to a more appropriate size.</key>
-<string>Benutzerdefiniert Legen Sie die Titelschriftgröße für geöffnete Ordner fest. Wenn der Wert zu groß oder zu klein ist, kann die Größe auf eine geeignetere Größe geändert werden.</string>
+<string>Legen Sie die Benutzerdefiniert Titelschriftgröße für geöffnete Ordner fest. Wenn der Wert zu groß oder zu klein ist, kann die Größe auf eine geeignetere Größe geändert werden.</string>
 
 
 
@@ -60,16 +60,16 @@
 <string>Hintergrundfarbe aktivieren</string>
 
 <key>Enable to set a custom title size, change the alignment, and customize the background views of open folders.</key>
-<string>Benutzerdefinierte Titelausrichtung</string>
+<string>Aktivieren Sie diese Option, um eine benutzerdefinierte Titelgröße festzulegen, die Ausrichtung zu ändern und die Hintergrundansichten geöffneter Ordner anzupassen.</string>
 
 <key>FOLDER TITLE BACKGROUND</key>
-<string>ORDNERHINTERGRUND</string>
+<string>ORDNER TITLE HINTERGRUND</string>
 
 <key>FOLDER TITLE COLOR</key>
 <string>ORDNER TITEL FARBE</string>
 
 <key>FOLDER TITLE CORNER RADIUS</key>
-<string>ORDNER ECKE RADIUS</string>
+<string>ORDNER ECKEN RADIUS</string>
 
 <key>Folder Titles</key>
 <string>Ordnertitel</string>
@@ -77,7 +77,7 @@
 
 
 	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
-	<string>Hast du Fehler 🐜? Widersprüchliche Optimierung (en)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+	<string>Hast du Fehler 🐜? Konflikt Optimierung(en) durch einen anderen Tweak? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
 
 <key>Left side</key>
 <string>Linke Seite</string>
@@ -92,13 +92,13 @@
 <string>Rechte Seite</string>
 
 <key>Title background color:</key>
-<string>Titelhintergrundfarbe:</string>
+<string>Titel Hintergrundfarbe:</string>
 
 <key>Title border color:</key>
-<string>Titelrandfarbe:</string>
+<string>Titel Randfarbe:</string>
 
 <key>Title color:</key>
-<string>Titelfarbe:</string>
+<string>Titel Farbe:</string>
 
 <key>TITLE FONT SIZE</key>
 <string>Schriftgröße</string>

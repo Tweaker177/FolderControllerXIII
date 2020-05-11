@@ -22,10 +22,10 @@
 	<string>Ermöglicht die Verwendung von Ordnern als Teil der Auswahl mit mehreren Symbolen, um den Startbildschirm schneller neu anzuordnen. Ziehen Sie im Bearbeitungsmodus ein Symbol nach unten und halten Sie es gedrückt. Tippen Sie anschließend auf ein anderes Symbol, um es auszuwählen.</string>
 
 <key>Almost all the settings update instantly except for some changes to icons and layouts. Apply changes will respring your device, and ensure all values are set as desired.</key>
-<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme einiger Änderungen an Symbolen und Layouts. Durch Anwenden von Änderungen wird Ihr Gerät erneut gestartet, und es wird sichergestellt, dass alle Werte wie gewünscht eingestellt sind.</string>
+<string>Fast alle Einstellungen werden sofort aktualisiert, mit Ausnahme einiger Änderungen an Symbolen und Layouts. Durch Anwenden von Änderungen übernehmen wird Ihr Gerät erneut gestartet, und es wird sichergestellt, dass alle Werte wie gewünscht eingestellt sind.</string>
 
 	<key>Anything larger then zero enables the colored border for open folders, assuming one of the color switches are enabled.</key>
-	<string>Alles, was größer als Null ist, aktiviert den farbigen Rahmen für offene Ordner, vorausgesetzt, einer der Farbschalter ist aktiviert.</string>
+	<string>Alles, was größer als 0 ist, aktiviert den farbigen Rahmen für offene Ordner, vorausgesetzt, einer der Farbschalter ist aktiviert.</string>
 	<key>Apply changes</key>
 	<string>Änderungen übernehmen (respring)</string>
 	<key>Auto-close when app opens</key>
@@ -39,7 +39,7 @@
 	<key>Border thickness:</key>
 	<string>Randstärke:</string>
 	<key>Choose one of the several different ways your three colors will be blended. If varied button is on it will be random each time folder is opened.</key>
-	<string>Wählen Sie eine der verschiedenen Möglichkeiten, wie Ihre drei Farben gemischt werden. Wenn die Schaltfläche "Verschiedene" aktiviert ist, wird der Ordner bei jedem Öffnen des Ord</string>
+	<string>Wählen Sie eine der verschiedenen Möglichkeiten, wie Ihre drei Farben gemischt werden. Wenn die Schaltfläche "Variiert" aktiviert ist, ist sie bei jedem Öffnen des Ordners zufällig.</string>
 	<key>Choose open folder size from the segment cell picker- normal (default), full width large square, or nearly full page. Make sure the tap to close feature is on for easy closing of full page folders. Theres room if you forget though.</key>
 	<string>Wählen Sie die Größe des geöffneten Ordners aus der Segmentzellenauswahl: Normal (Standard), großes Quadrat in voller Breite oder fast ganze Seite. Stellen Sie sicher, dass die Funktion "Zum Schließen tippen" aktiviert ist, um vollständige Seitenordner zu schließen. Es gibt Raum, wenn du es vergisst.</string>
 	<key>Closed folder coloring</key>
@@ -61,7 +61,7 @@
 	<key>Custom color folder icons, and pick custom border color and thickness. Turn on Support theme images if you have a folder icon as part of your theme you want to see. The border color will work still, but leave theme image original color as icon. Also makes tweak compatible for custom icon images.</key>
 	<string>Benutzerdefinierte Farbsymbole und benutzerdefinierte Randfarbe und -stärke auswählen. Aktivieren Sie "Support-Motivbilder", wenn Sie ein Ordnersymbol als Teil Ihres Designs haben, das Sie sehen möchten. Die Rahmenfarbe funktioniert weiterhin, aber die ursprüngliche Farbe des Motivbildes bleibt als Symbol erhalten. Macht Tweak-kompatibel für benutzerdefinierte Symbolbilder.</string>
 	<key>Custom corner radiuses</key>
-	<string>Benutzerdefinierte Eckenradien</string>
+	<string>Benutzerdefinierter Eckenradius</string>
 	<key>Custom folder layouts</key>
 	<string>Benutzerdefinierte Ordnerlayouts</string>
 
@@ -86,12 +86,12 @@
 	<key>Enable solid colors</key>
 	<string>Aktivieren Sie Volltonfarben</string>
 	<key>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</key>
-	<string>Aktivieren Sie diese Option, um den Eckenradius von offenen und geschlossenen Ordnern zu ändern. Resring musste für Ordnersymbole wirksam werden.</string>
+	<string>Aktivieren Sie diese Option, um den Eckenradius von offenen und geschlossenen Ordnern zu ändern. Respring wird benötigt damit Änderungen der Ordnersymbole wirksam werden.</string>
 	
 	<key>Enable tweak</key>
 	<string>Tweak aktivieren</string>
 	<key>Folder color or gradient1:</key>
-	<string>Ordnerfarbe oder Farbverlauf1:</string>
+	<string>Ordnerfarbe oder Farbverlauf 1:</string>
 	<key>Folder icon color</key>
 	<string>Farbe des Ordnersymbols</string>
 	<key>FolderControllerXI</key>
@@ -105,7 +105,7 @@
 	<key>Full Width</key>
 	<string>Gesamtbreite</string>
 	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXII settings, and a list of installed packages that could be interfering.</key>
-	<string>Bekam Bugs 🐜? Konflikt zwischen Tweak(s)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Sie Ihre FolderControllerXII-Einstellungen per E-Mail sowie eine Liste der installierten Pakete erhalten, die stören könnten.</string>
+	<string>Hast du Fehler ? Konflikt Optimierung(en) durch andere Tweaks? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
 	<key>Gradient color2:</key>
 	<string>Farbverlauf 2:</string>
 	<key>Gradient color3:</key>
@@ -119,7 +119,7 @@
 	<key>IndieDevKB</key>
 	<string>IndieDevKB</string>
 	<key>Keep empty folders</key>
-	<string>Leere Ordner aufbewahren</string>
+	<string>Leere Ordner Behalten</string>
 	<key>More improvements coming soon.</key>
 	<string>Weitere Verbesserungen folgen in Kürze.</string>
 	<key>Multi-Folder select</key>
@@ -141,11 +141,11 @@
 <string>Ordner öffnen</string>
 
 	<key>Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on/off)</key>
-	<string>Optionen zum Schließen von Ordnern. Tippen Sie auf, um überall zu tippen. Zum Schließen verwenden Sie die Pinch-Geste außerhalb des Ordners. (Pinch erfordert das Einschalten der Resing-Funktion)</string>
+	<string>Optionen zum Schließen von Ordnern. Durch Tippen können Sie auf eine beliebige Stelle tippen. Zum Schließen wird eine Pinch-Geste(2-finger zusammen ziehen) außerhalb des Ordners verwendet, um ihn zu schließen. (Zum Ein- und Ausschalten ist eine Respring erforderlich.)</string>
 	<key>Options to adjust appearance of title and the home screen blur/ background behind an open folder. No resprings needed. Open folder colors can be changed without needing respring as well.</key>
-	<string>Optionen zum Anpassen des Erscheinungsbilds des Titels und des Hintergrunds des Startbildschirms hinter einem geöffneten Ordner. Keine Korrekturen nötig. Die Farben der geöffneten Ordner können auch geändert werden, ohne dass eine erneute Bearbeitung erforderlich ist.</string>
+	<string>Optionen zum Anpassen des Erscheinungsbilds des Titels und des Hintergrunds des Startbildschirms hinter einem geöffneten Ordner. Keine Korrekturen nötig. Die Farben der geöffneten Ordner können auch geändert werden, ohne dass eine erneuteRespring erforderlich ist.</string>
 	<key>Pinch to close</key>
-	<string>Prise zum Schließen</string>
+	<string>Pinch-Geste zum Schließen</string>
 	<key>Random gradient styles</key>
 	<string>Zufällige Verlaufsstile</string>
 	<key>Set a custom color to go behind open folders. Use slider to adjust color alpha of open folder background blurs. (New beta feature)</key>
@@ -160,9 +160,9 @@
 	<key>Settings improved by:</key>
 	<string>Einstellungen verbessert um:</string>
 	<key>Show status bar</key>
-	<string>zeige Statusleiste</string>
+	<string>zeige Statusbarleiste</string>
 	<key>Support theme images</key>
-	<string>Unterstützung thema bilder</string>
+	<string>Unterstützung Theme bilder</string>
 	<key>Tap to close</key>
 	<string>Zum Schließen tippen</string>
 	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
@@ -188,6 +188,6 @@
 	<key>i0s_tweak3r</key>
 	<string>i0s_tweak3r</string>
 	<key>👉 Add my repo</key>
-	<string>👉 Add my repo</string>
+	<string>👉 Meine Repo Hinzufügen</string>
 </dict>
 </plist>

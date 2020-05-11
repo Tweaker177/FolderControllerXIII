@@ -8,7 +8,7 @@
 	<key>Adjust corner radius for open folder backgrounds.</key>
 	<string>Passen Sie den Eckenradius für Hintergründe für offene Ordner an.</string>
 	<key>Adjust opacity or translucency of open folder backgrounds . Zero hides folder backgrounds completely.</key>
-	<string>Passen Sie die Deckkraft der Hintergründe für offene Ordner an. Null verbirgt Ordnerhintergründe vollständig.</string>
+	<string>Passen Sie die Deckkraft der Hintergründe für offene Ordner an. 0 verbirgt Ordnerhintergründe vollständig.</string>
 	<key>Adjust slider to set custom max number of rows inside open folders.</key>
 	<string>Passen Sie den Schieberegler an, um die maximale Anzahl von Reihen in offenen Ordnern festzulegen.</string>
 
@@ -47,9 +47,9 @@
 	<key>Custom color alpha:</key>
 	<string>Alpha für ausgewählte Farbe:</string>
 	<key>Custom color folder icons, and pick custom border color and thickness. Turn on Support theme images if you have a folder icon as part of your theme you want to see. The border color will work still, but leave theme image original color as icon. Also makes tweak compatible for custom icon images.</key>
-	<string>Benutzerdefinierte Farbsymbole und benutzerdefinierte Randfarbe und -stärke auswählen. Aktivieren Sie "Support-Motivbilder", wenn Sie ein Ordnersymbol als Teil Ihres Designs haben, das Sie sehen möchten. Die Rahmenfarbe funktioniert weiterhin, aber die ursprüngliche Farbe des Motivbildes bleibt als Symbol erhalten. Macht Tweak-kompatibel für benutzerdefinierte Symbolbilder.</string>
+	<string>Benutzerdefinierte Farbsymbole und benutzerdefinierte Randfarbe und -Stärke auswählen. Aktivieren Sie "Support-Motivbilder", wenn Sie ein Ordnersymbol als Teil Ihres Designs haben, das Sie sehen möchten. Die Rahmenfarbe funktioniert weiterhin, aber die ursprüngliche Farbe des Motivbildes bleibt als Symbol erhalten. Macht Tweak-kompatibel für benutzerdefinierte Symbolbilder.</string>
 	<key>Custom corner radiuses</key>
-	<string>Benutzerdefinierte Eckenradien</string>
+	<string>Benutzerdefinierte Eckenradius</string>
 	<key>Custom folder layouts</key>
 	<string>Benutzerdefinierte Ordnerlayouts</string>
 	<key>Custom folder sizes</key>
@@ -69,12 +69,12 @@
 	<key>Enable solid colors</key>
 	<string>Aktivieren Sie Volltonfarben</string>
 	<key>Enable to change corner radius of open and closed folders. Respring needed to take affect for folder icons.</key>
-	<string>Aktivieren Sie diese Option, um den Eckenradius von offenen und geschlossenen Ordnern zu ändern. Resring musste für Ordnersymbole wirksam werden.</string>
+	<string>Aktivieren Sie diese Option, um den Eckenradius von offenen und geschlossenen Ordnern zu ändern. Respring müsste für Ordnersymbole wirksam werden.</string>
 
 	<key>Enable tweak</key>
 	<string>Tweak aktivieren</string>
 	<key>Folder color or gradient1:</key>
-	<string>Ordnerfarbe oder Farbverlauf1:</string>
+	<string>Ordnerfarbe oder Farbverlauf 1:</string>
 	<key>Folder icon color</key>
 	<string>Farbe des Ordnersymbols</string>
 
@@ -87,13 +87,13 @@
 	<key>Full Width</key>
 	<string>Gesamtbreite</string>
 	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXII settings, and a list of installed packages that could be interfering.</key>
-	<string>Bekam Bugs 🐜? Konflikt zwischen Tweak(s)? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Sie Ihre FolderControllerXII-Einstellungen per E-Mail sowie eine Liste der installierten Pakete erhalten, die stören könnten.</string>
+	<string>Hast du Fehler ? Widersprüchliche Optimierung durch anderen Tweaks? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
 
 	<key>Hide the minigrid</key>
 	<string>Minigrid ausblenden</string>
 
 	<key>Keep empty folders</key>
-	<string>Leere Ordner aufbewahren</string>
+	<string>Leere Ordner behalten</string>
 	<key>More improvements coming soon.</key>
 	<string>Weitere Verbesserungen folgen in Kürze.</string>
 	<key>Multi-Folder select</key>
@@ -104,29 +104,29 @@
 	<key>Open Folder Options</key>
 	<string>Öffnen Sie die Ordneroptionen</string>
 	<key>Open folder coloring</key>
-	<string>Ordnerfarbe öffnen</string>
+	<string>Ordnerfarbe beim Öffnen</string>
 	<key>Open folder opacity</key>
-	<string>Ordnerdeckkraft öffnen</string>
+	<string>Ordnerdeckkraft beim Öffnen</string>
 	<key>Options for how to close folders. Tap allows you to tap anywhere, pinch to close uses pinch gesture outside of folder to close it. (Pinch requires respring to turn on/off)</key>
-	<string>Optionen zum Schließen von Ordnern. Tippen Sie auf, um überall zu tippen. Zum Schließen verwenden Sie die Pinch-Geste außerhalb des Ordners. (Pinch erfordert das Einschalten der Resing-Funktion)</string>
+	<string>Optionen zum Schließen von Ordnern. Durch Tippen können Sie auf eine beliebige Stelle tippen. Zum Schließen wird eine Pinch-Geste außerhalb des Ordners verwendet, um ihn zu schließen.(Zum Ein- und Ausschalten ist eine Respring erforderlich.)</string>
 	<key>Options to adjust appearance of title and the home screen blur/ background behind an open folder. No resprings needed. Open folder colors can be changed without needing respring as well.</key>
-	<string>Optionen zum Anpassen des Erscheinungsbilds des Titels und des Hintergrunds des Startbildschirms hinter einem geöffneten Ordner. Keine Korrekturen nötig. Die Farben der geöffneten Ordner können auch geändert werden, ohne dass eine erneute Bearbeitung erforderlich ist.</string>
+	<string>Optionen zum Anpassen des Erscheinungsbilds des Titels und des Hintergrunds des Startbildschirms hinter einem geöffneten Ordner. Keine Korrekturen nötig. Die Farben der geöffneten Ordner können auch geändert werden, ohne dass eine erneute Respring erforderlich ist.</string>
 	<key>Pinch to close</key>
-	<string>Prise zum Schließen</string>
+	<string>Zum Schließen kneifen(2-Finger)</string>
 	<key>Random gradient styles</key>
 	<string>Zufällige Verlaufsstile</string>
 	<key>Set a custom color to go behind open folders. Use slider to adjust color alpha of open folder background blurs. (New beta feature)</key>
-	<string>Legen Sie eine benutzerdefinierte Farbe fest, die hinter geöffneten Ordnern angezeigt werden soll. Verwenden Sie den Schieberegler, um das Farb-Alpha der Hintergrundunschärfen für geöffnete Ordner anzupassen. (Neue Betafunktion)</string>
+	<string>Legen Sie eine benutzerdefinierte Farbe fest, die hinterdem geöffneten Ordnern angezeigt werden soll. Verwenden Sie den Schieberegler, um das Farb-Alpha der Hintergrundunschärfen für geöffnete Ordner anzupassen. (Neue Betafunktion)</string>
 	<key>Set custom number of columns inside folder.</key>
 	<string>Legen Sie die benutzerdefinierte Anzahl der Spalten im Ordner fest.</string>
 	<key>Set custom number of rows and columns in open folders. Affects all folders. Should update immediately, if not hit "Apply changes".</key>
-	<string>Festlegen der benutzerdefinierten Anzahl von Zeilen und Spalten in offenen Ordnern. Betrifft alle Ordner. Sollte sofort aktualisiert werden, falls nicht auf "Änderungen übernehmen" geklickt.</string>
+	<string>Festlegen der benutzerdefinierten Anzahl von Zeilen und Spalten in offenen Ordnern. Betrifft alle Ordner. Sollte sofort aktualisiert werden, falls nicht auf "Änderungen übernehmen" Klicken.</string>
 	<key>Settings improved by:</key>
 	<string>Einstellungen verbessert um:</string>
 	<key>Show status bar</key>
-	<string>zeige Statusleiste</string>
+	<string>zeige Statusbarleiste</string>
 	<key>Support theme images</key>
-	<string>Unterstützung thema bilder</string>
+	<string>Unterstützung Theme bilder</string>
 	<key>Tap to close</key>
 	<string>Zum Schließen tippen</string>
 	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
@@ -140,6 +140,6 @@
 	<key>i0s_tweak3r</key>
 	<string>i0s_tweak3r</string>
 	<key>👉 Add my repo</key>
-	<string>👉 Add my repo</string>
+	<string>👉 Füge mein Repo hinzu</string>
 </dict>
 </plist>

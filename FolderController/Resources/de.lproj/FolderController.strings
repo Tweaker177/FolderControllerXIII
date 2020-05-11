@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>Add a BG image-No Respring needed</key>
-<string>Hintergrundbild hinzufügen</string>
+<string>Hintergrundbild hinzufügen (Kein Respring nötig)</string>
 
 <key>Allows you to use folders as part of the multi-icon select to rearrange your homescreen faster. In editing mode, drag down and hold one icon, then tap others for multi-select.</key>
 	<string>Ermöglicht die Verwendung von Ordnern als Teil der Auswahl mehrerer Symbole, um den Startbildschirm schneller neu anzuordnen. Ziehen Sie im Bearbeitungsmodus ein Symbol und halten Sie es gedrückt. Tippen Sie dann zur Mehrfachauswahl auf andere.</string>
@@ -59,7 +59,7 @@
 	<string>Kostenlose Optimierungen in BigBoss</string>
 
 	<key>Got bugs 🐜? Conflicting tweak(s)? 🤔 Visit Tech Support on the next page.  This is the best way to get help, since it emails your FolderControllerXIII settings, and a list of installed packages that could be interfering.</key>
-	<string>Erhaltene Wanzen? In Konflikt stehende Optimierungen? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
+	<string>Hast du Fehler? Konflikt Optimierung durch andere Tweaks? 🤔 Besuchen Sie den technischen Support auf der nächsten Seite. Dies ist der beste Weg, um Hilfe zu erhalten, da Ihre FolderControllerXIII-Einstellungen und eine Liste der installierten Pakete, die möglicherweise stören, per E-Mail gesendet werden.</string>
 
 <key>Icon Scaling</key>
 <string>Symbolskala</string>
@@ -81,7 +81,7 @@
 <string>Ordner öffnen</string>
 
 <key>Pick any picture from your camera roll to add as a background image inside open folders. Works with the gradients or solid color overtop. Just reduce alpha to see colors better.</key>
-<string>Wählen Sie ein beliebiges Bild aus Ihrer Kamerarolle aus, um es in geöffneten Ordnern als Hintergrundbild hinzuzufügen. Arbeitet mit Verläufen oder einzelnen Farben. Reduzieren Sie einfach das Alpha, um die Farben besser zu sehen.</string>
+<string>Wählen Sie ein beliebiges Bild aus Ihrer Kamera aus, um es in geöffneten Ordnern als Hintergrundbild hinzuzufügen. Arbeitet mit Verläufen oder einzelnen Farben. Reduzieren Sie einfach das Alpha, um die Farben besser zu sehen.</string>
 
 <key>Set a custom alpha level to be able to see the colors over top of the image. One is full strength, and zero will hide the image.</key>
 <string>Stellen Sie eine benutzerdefinierte Alpha-Stufe ein, um die Farben über dem Bild zu sehen. Eins ist die volle Stärke und Null wird das Bild verbergen.</string>
@@ -91,7 +91,7 @@
 
 
 <key>Settings for custom folder sizes, background colors and gradients, custom blurs behind open folders, and more.</key>
-<string>Einstellungen für benutzerdefinierte Ordnergrößen, Hintergrundfarben und -verläufe, benutzerdefinierte Unschärfen hinter geöffneten Ordnern und mehr.</string>
+<string>Einstellungen für benutzerdefinierte Ordnergrößen, Hintergrundfarben und -Verläufe, benutzerdefinierte Unschärfen hinter geöffneten Ordnern und mehr.</string>
 
 <key>Settings for how to close folders, as well as folder icon settings.</key>
 	<string>Einstellungen zum Schließen von Ordnern sowie Einstellungen für Ordnersymbole.</string>
@@ -99,7 +99,7 @@
 
 
 	<key>Thank you for your purchase.  Any additional donations are greatly appreciated, as I will continue to improve the tweak, and provide support for iOS 13.</key>
-	<string>Vielen Dank für Ihre Schirmherrschaft. Weitere Spenden sind sehr willkommen, da ich die Optimierung weiter verbessern und Unterstützung für iOS 13 bieten werde</string>
+	<string>Vielen Dank für Ihre Kauf. Weitere Spenden sind sehr willkommen, da ich die Optimierung weiter verbessern und Unterstützung für iOS 13 bieten werde</string>
 
 <key>Thanks for your support!</key>
 <string>Danke für Ihre Unterstützung</string>
@@ -108,6 +108,6 @@
 	<string>Schaltet den Tweak ein. Ausschalten, um alle Änderungen auf die ursprünglichen Werte zurückzusetzen.</string>
 
 	<key>👉 Add my repo</key>
-	<string>👉 Mein Repo hinzufügen</string>
+	<string>👉 Meine Repo hinzufügen</string>
 </dict>
 </plist>
